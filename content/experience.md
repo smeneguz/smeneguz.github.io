@@ -1,6 +1,6 @@
 ---
 title: "Experience"
-subtitle: "Professional experience spanning research, software engineering, and community leadership."
+subtitle: "Work history across research, software engineering, and project coordination."
 ---
 
 <div class="section-divider"></div>
@@ -10,26 +10,26 @@ subtitle: "Professional experience spanning research, software engineering, and 
 <div class="timeline">
 
 <div class="timeline-item">
-  <div class="timeline-date">Dec 2022 &ndash; Present</div>
-  <div class="timeline-title">Blockchain Researcher & Developer</div>
-  <div class="timeline-org"><a href="https://linksfoundation.com/en/" target="_blank">Fondazione LINKS</a> &mdash; Torino, Italy</div>
+  <div class="timeline-date">Dec 2022 - Present</div>
+  <div class="timeline-title">Blockchain Researcher and Developer</div>
+  <div class="timeline-org"><a href="https://linksfoundation.com/en/" target="_blank">Fondazione LINKS</a>, Torino, Italy</div>
   <div class="timeline-desc">
     <ul>
-      <li>Research on blockchain-based data marketplaces focusing on privacy, trust, and interoperability.</li>
+      <li>Research on blockchain-based data marketplaces with a focus on privacy, trust, and interoperability.</li>
       <li>Contribution to European projects: EU-DREAM, DataCellar, eFORT, B4A.</li>
       <li>Integration of IDSA connectors and SSI solutions; collaboration with university partners on prototypes and publications.</li>
-      <li>Contributed to peer-reviewed papers and project demonstrators.</li>
+      <li>Co-authored peer-reviewed papers and built project demonstrators.</li>
     </ul>
   </div>
 </div>
 
 <div class="timeline-item">
-  <div class="timeline-date">Jul 2022 &ndash; Nov 2022</div>
+  <div class="timeline-date">Jul 2022 - Nov 2022</div>
   <div class="timeline-title">Software Engineer</div>
-  <div class="timeline-org"><a href="https://www.tradenet.it/" target="_blank">Tradenet</a> &mdash; Schio, Italy</div>
+  <div class="timeline-org"><a href="https://www.tradenet.it/" target="_blank">Tradenet</a>, Schio, Italy</div>
   <div class="timeline-desc">
     <ul>
-      <li>Development of blockchain applications on Commercio.network (Cosmos SDK).</li>
+      <li>Developed blockchain applications on Commercio.network (Cosmos SDK).</li>
       <li>R&D on smart contract security and distributed systems.</li>
       <li>System maintenance and deployment.</li>
     </ul>
@@ -37,33 +37,33 @@ subtitle: "Professional experience spanning research, software engineering, and 
 </div>
 
 <div class="timeline-item">
-  <div class="timeline-date">Jan 2021 &ndash; Jul 2021</div>
+  <div class="timeline-date">Jan 2021 - Jul 2021</div>
   <div class="timeline-title">Product Engineer</div>
-  <div class="timeline-org"><a href="https://www.infineon.com/" target="_blank">Infineon Technologies</a> &mdash; Padova, Italy</div>
+  <div class="timeline-org"><a href="https://www.infineon.com/" target="_blank">Infineon Technologies</a>, Padova, Italy</div>
   <div class="timeline-desc">
     <ul>
       <li>Designed and implemented a cloud test executor for microcontroller test data exchange across sites.</li>
-      <li>Produced technical documentation and presentations for international engineering teams.</li>
+      <li>Wrote technical documentation and presentations for international engineering teams.</li>
     </ul>
   </div>
 </div>
 
 <div class="timeline-item">
-  <div class="timeline-date">Jan 2018 &ndash; Jan 2019</div>
+  <div class="timeline-date">Jan 2018 - Jan 2019</div>
   <div class="timeline-title">Business Consultant</div>
-  <div class="timeline-org"><a href="https://www.soprasteria.com/" target="_blank">Sopra Steria</a> &mdash; Milan, Italy</div>
+  <div class="timeline-org"><a href="https://www.soprasteria.com/" target="_blank">Sopra Steria</a>, Milan, Italy</div>
   <div class="timeline-desc">
     <ul>
       <li>Requirements analysis and support for omnichannel solutions in finance and retail.</li>
-      <li>Main clients: Armani (Omnichannel strategy) and A2A (Open innovation).</li>
+      <li>Main clients: Armani (omnichannel strategy) and A2A (open innovation).</li>
     </ul>
   </div>
 </div>
 
 <div class="timeline-item">
-  <div class="timeline-date">Jul 2017 &ndash; Jun 2017</div>
+  <div class="timeline-date">Jul 2017 - Jun 2017</div>
   <div class="timeline-title">Project Coordinator</div>
-  <div class="timeline-org">Red Babel &mdash; Amsterdam, Netherlands</div>
+  <div class="timeline-org">Red Babel, Amsterdam, Netherlands</div>
   <div class="timeline-desc">
     <ul>
       <li>Managed a team of seven developers.</li>
@@ -76,7 +76,7 @@ subtitle: "Professional experience spanning research, software engineering, and 
 
 ---
 
-## Open Source & Projects
+## Open Source and Projects
 
 Selected projects from my [GitHub](https://github.com/smeneguz):
 
@@ -102,7 +102,7 @@ Selected projects from my [GitHub](https://github.com/smeneguz):
   <a href="https://github.com/smeneguz/Rust-Chain" target="_blank" class="card" style="text-decoration: none;">
     <div class="card-label">Blockchain</div>
     <h3>Rust-Chain</h3>
-    <p>From-scratch blockchain in Rust: core data structures, consensus scaffolding, and storage experiments.</p>
+    <p>Blockchain built from scratch in Rust: core data structures, consensus scaffolding, and storage experiments.</p>
     <div class="tag-list">
       <span class="tag">Rust</span>
       <span class="tag">Blockchain</span>

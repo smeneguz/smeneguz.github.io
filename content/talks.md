@@ -1,11 +1,21 @@
 ---
 title: "Talks & Activities"
-subtitle: "Conference presentations, invited talks, and community roles."
+subtitle: "Conference presentations, invited talks, academic service, and student co-supervision."
 ---
 
 <div class="section-divider"></div>
 
 ## Conference Presentations
+
+<div class="talk-item">
+  <div class="talk-date">Apr 2026</div>
+  <div class="talk-content">
+    <div class="talk-type">Paper Presentation</div>
+    <h3><a href="https://arxiv.org/abs/2601.14927" target="_blank">Operationalising DAO Sustainability KPIs: A Multi-Chain Dashboard for Governance Analytics</a></h3>
+    <div class="talk-venue"><a href="https://conf.researchr.org/home/icse-2026/finanse-2026" target="_blank">ICSE FinanSE 2026</a></div>
+    <div class="talk-location">Rio de Janeiro, Brazil</div>
+  </div>
+</div>
 
 <div class="talk-item">
   <div class="talk-date">Jul 2025</div>
@@ -69,7 +79,7 @@ subtitle: "Conference presentations, invited talks, and community roles."
 
 ---
 
-## Invited Talks & Seminars
+## Invited Talks and Seminars
 
 <div class="talk-item">
   <div class="talk-date">May 2025</div>
@@ -85,7 +95,7 @@ subtitle: "Conference presentations, invited talks, and community roles."
   <div class="talk-date">Sep 2023</div>
   <div class="talk-content">
     <div class="talk-type">Invited Speaker</div>
-    <h3>Presentation of the IoT-DLT-AI Technological Convergence</h3>
+    <h3>IoT-DLT-AI Technological Convergence</h3>
     <div class="talk-venue"><a href="https://www.youtube.com/watch?v=yvKQwosiJ3s" target="_blank">Watch on YouTube</a></div>
     <div class="talk-location">Brussels, Belgium</div>
   </div>
@@ -103,14 +113,34 @@ subtitle: "Conference presentations, invited talks, and community roles."
 
 ---
 
-## Academic Service & Community Roles
+## Academic Service
+
+<div class="talk-item">
+  <div class="talk-date">2026</div>
+  <div class="talk-content">
+    <div class="talk-type">Workshop Chair (Founder)</div>
+    <h3><a href="https://ieeecompsac.computer.org/2026/2nd-ieee-international-workshop-on-blockchain-and-distributed-ledger-technologies-blockdlt-2026/" target="_blank">BlockDLT 2026</a> -- 2nd Edition</h3>
+    <div class="talk-venue">IEEE International Workshop on Blockchain and Distributed Ledger Technologies, at COMPSAC 2026</div>
+    <div class="talk-location">Macao, China</div>
+  </div>
+</div>
+
+<div class="talk-item">
+  <div class="talk-date">2026</div>
+  <div class="talk-content">
+    <div class="talk-type">Program Committee Member</div>
+    <h3><a href="https://conf.researchr.org/home/icse-2026/wetseb-2026" target="_blank">WETSEB 2026</a></h3>
+    <div class="talk-venue">8th Workshop on Emerging Trends in Software Engineering for Blockchain, at ICSE 2026</div>
+    <div class="talk-location">Rio de Janeiro, Brazil</div>
+  </div>
+</div>
 
 <div class="talk-item">
   <div class="talk-date">Jul 2025</div>
   <div class="talk-content">
-    <div class="talk-type">Workshop Chair</div>
-    <h3><a href="https://ieeecompsac.computer.org/2025/blockdlt/" target="_blank">IEEE BlockDLT 2025</a></h3>
-    <div class="talk-venue">International Workshop on Blockchain and Distributed Ledger Technologies</div>
+    <div class="talk-type">Workshop Chair (Founder)</div>
+    <h3><a href="https://ieeecompsac.computer.org/2025/blockdlt/" target="_blank">BlockDLT 2025</a> -- 1st Edition</h3>
+    <div class="talk-venue">IEEE International Workshop on Blockchain and Distributed Ledger Technologies, at COMPSAC 2025</div>
     <div class="talk-location">Toronto, ON, Canada</div>
   </div>
 </div>
@@ -129,7 +159,7 @@ subtitle: "Conference presentations, invited talks, and community roles."
   <div class="talk-date">Jul 2025</div>
   <div class="talk-content">
     <div class="talk-type">Symposium Chair</div>
-    <h3><a href="https://ieeecompsac.computer.org/2025/srs/" target="_blank">IEEE COMPSAC 2025 &mdash; SRS</a></h3>
+    <h3><a href="https://ieeecompsac.computer.org/2025/srs/" target="_blank">IEEE COMPSAC 2025, Student Research Symposium</a></h3>
     <div class="talk-venue">Student Research Symposium</div>
     <div class="talk-location">Toronto, ON, Canada</div>
   </div>
@@ -140,7 +170,7 @@ subtitle: "Conference presentations, invited talks, and community roles."
   <div class="talk-content">
     <div class="talk-type">Workshop Organiser</div>
     <h3><a href="https://luma.com/jgtzi82w" target="_blank">Hands-on Ethereum Workshop with Austin Griffith (BuidlGuidl)</a></h3>
-    <div class="talk-venue">In partnership with Politecnico di Torino, University of Turin & Links Foundation</div>
+    <div class="talk-venue">In partnership with Politecnico di Torino, University of Turin and Links Foundation</div>
     <div class="talk-location">Torino, Italy</div>
   </div>
 </div>
@@ -157,14 +187,14 @@ subtitle: "Conference presentations, invited talks, and community roles."
 
 ---
 
-## Volunteering & Community
+## Volunteering and Community
 
-- **TEDxSchio** &mdash; Organiser & Licensee (2018 &ndash; present) &middot; [TED Profile](https://www.ted.com/profiles/10204915/about)
-- **Startup Grind Padova** &mdash; Chapter Director (2019 &ndash; 2023) &middot; [Startup Grind](https://www.startupgrind.com/)
+- **TEDxSchio** -- Organiser and Licensee (2018 - present) | [TED Profile](https://www.ted.com/profiles/10204915/about)
+- **Startup Grind Padova** -- Chapter Director (2019 - 2023) | [Startup Grind](https://www.startupgrind.com/)
 - **Ocean Protocol Ambassador** (2023)
 
 ---
 
 ## Awards
 
-- **IOTA Hackathon** &mdash; 3rd Place, Cagliari (Sep 2024) &middot; [DLT School](https://dlt-school.github.io/)
+- **IOTA Hackathon** -- 3rd Place, Cagliari (Sep 2024) | [DLT School](https://dlt-school.github.io/)

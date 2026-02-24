@@ -4,7 +4,7 @@ title = "Silvio Meneguzzo"
 copyright = "Silvio Meneguzzo"
 
 [params]
-  description = "PhD Candidate in Blockchain & DLT | Researcher at Links Foundation & University of Turin"
+  description = "PhD in Blockchain & DLT | Researcher at Links Foundation & University of Turin"
   author = "Silvio Meneguzzo"
   profileImage = "/images/silvio.jpeg"
   email = "meneguzzosilvio@gmail.com"
@@ -40,9 +40,17 @@ copyright = "Silvio Meneguzzo"
     url = "/experience/"
     weight = 6
   [[menu.main]]
+    name = "Students"
+    url = "/students/"
+    weight = 7
+  [[menu.main]]
+    name = "Collaborate"
+    url = "/collaborate/"
+    weight = 8
+  [[menu.main]]
     name = "Contact"
     url = "/contact/"
-    weight = 7
+    weight = 9
 
 [markup]
   [markup.goldmark]

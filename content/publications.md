@@ -5,6 +5,17 @@ subtitle: "Peer-reviewed papers, book chapters, and preprints."
 
 <div class="section-divider"></div>
 
+<h2 class="pub-year">2026</h2>
+
+<div class="pub-item">
+  <div class="pub-title"><a href="https://arxiv.org/abs/2601.14927" target="_blank">Operationalising DAO Sustainability KPIs: A Multi-Chain Dashboard for Governance Analytics</a></div>
+  <div class="pub-authors"><strong>S. Meneguzzo</strong>, C. Schifanella, V. Gatteschi, G. Destefanis</div>
+  <div class="pub-venue">ICSE FinanSE 2026, Rio de Janeiro, Brazil</div>
+  <div class="pub-links">
+    <a class="pub-link" href="https://arxiv.org/abs/2601.14927" target="_blank">arXiv</a>
+  </div>
+</div>
+
 <h2 class="pub-year">2025</h2>
 
 <div class="pub-item">
