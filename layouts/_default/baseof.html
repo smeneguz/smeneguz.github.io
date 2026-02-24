@@ -3,14 +3,69 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
-  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
-  <meta name="author" content="{{ .Site.Params.author }}">
+  <title>{{ if .IsHome }}Silvio Meneguzzo -- PhD in Blockchain & DLT | Researcher{{ else }}{{ .Title }} | Silvio Meneguzzo{{ end }}</title>
+  <meta name="description" content="{{ with .Params.subtitle }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+  <meta name="author" content="Silvio Meneguzzo">
+  <meta name="keywords" content="Silvio Meneguzzo, blockchain, DLT, distributed ledger, researcher, PhD, University of Turin, Links Foundation, DAO, data marketplace, cryptography, smart contracts">
+  <link rel="canonical" href="{{ .Permalink }}">
+
+  <!-- Open Graph (Facebook, LinkedIn) -->
+  <meta property="og:title" content="{{ if .IsHome }}Silvio Meneguzzo -- PhD in Blockchain & DLT{{ else }}{{ .Title }} | Silvio Meneguzzo{{ end }}">
+  <meta property="og:description" content="{{ with .Params.subtitle }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+  <meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}">
+  <meta property="og:url" content="{{ .Permalink }}">
+  <meta property="og:image" content="{{ .Site.BaseURL }}images/silvio.jpeg">
+  <meta property="og:site_name" content="Silvio Meneguzzo">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="{{ if .IsHome }}Silvio Meneguzzo -- PhD in Blockchain & DLT{{ else }}{{ .Title }} | Silvio Meneguzzo{{ end }}">
+  <meta name="twitter:description" content="{{ with .Params.subtitle }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+  <meta name="twitter:image" content="{{ .Site.BaseURL }}images/silvio.jpeg">
+
+  <!-- JSON-LD Structured Data (helps Google understand who you are) -->
+  {{ if .IsHome }}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Silvio Meneguzzo",
+    "url": "{{ .Site.BaseURL }}",
+    "image": "{{ .Site.BaseURL }}images/silvio.jpeg",
+    "jobTitle": "PhD Researcher in Blockchain and DLT",
+    "worksFor": [
+      {
+        "@type": "Organization",
+        "name": "Links Foundation",
+        "url": "https://linksfoundation.com/en/"
+      },
+      {
+        "@type": "EducationalOrganization",
+        "name": "University of Turin",
+        "url": "https://www.di.unito.it/do/home.pl"
+      }
+    ],
+    "alumniOf": [
+      {
+        "@type": "EducationalOrganization",
+        "name": "University of Padova"
+      }
+    ],
+    "knowsAbout": ["Blockchain", "Distributed Ledger Technology", "DAO Governance", "Zero-Knowledge Proofs", "Smart Contracts", "Data Marketplaces", "Cryptography"],
+    "sameAs": [
+      "https://github.com/smeneguz",
+      "https://scholar.google.com/citations?user=cFT2URcAAAAJ",
+      "https://www.linkedin.com/in/silvio-arras-meneguzzo",
+      "https://meneguzzo.eth.limo/"
+    ]
+  }
+  </script>
+  {{ end }}
+
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
-  <link rel="icon" type="image/x-icon" href="{{ "images/favicon.ico" | relURL }}">
 </head>
 <body>
   {{ partial "nav.html" . }}

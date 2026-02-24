@@ -30,7 +30,7 @@ Outside of research, I organise [TEDxSchio](https://www.ted.com/profiles/1020491
 </div>
 
 <div class="edu-item">
-  <div class="edu-degree">M.Sc. in Computer Engineering</div>
+  <div class="edu-degree">M.Sc. in Telecommunication Engineering</div>
   <div class="edu-school">University of Padova</div>
   <div class="edu-date">Sep 2019 - Nov 2021</div>
   <div class="edu-details">
