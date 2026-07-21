@@ -10,13 +10,33 @@ subtitle: "Work history across research, software engineering, and project coord
 <div class="timeline">
 
 <div class="timeline-item">
+  <div class="timeline-date">2026 - Present</div>
+  <div class="timeline-title">Research Fellow (Borsa di Ricerca)</div>
+  <div class="timeline-org"><a href="https://www.unito.it/" target="_blank">University of Turin</a>, Italy</div>
+  <div class="timeline-desc">
+    <ul>
+      <li>Grant awarded through public competitive selection under supervision of Prof. Claudio Schifanella.</li>
+      <li>Research focus: DAOs and distributed systems governance, citizen data ownership frameworks.</li>
+    </ul>
+  </div>
+</div>
+
+<div class="timeline-item">
   <div class="timeline-date">Dec 2022 - Present</div>
   <div class="timeline-title">Blockchain Researcher and Developer</div>
   <div class="timeline-org"><a href="https://linksfoundation.com/en/" target="_blank">Fondazione LINKS</a>, Torino, Italy</div>
   <div class="timeline-desc">
     <ul>
       <li>Research on blockchain-based data marketplaces with a focus on privacy, trust, and interoperability.</li>
-      <li>Contribution to European projects: EU-DREAM, DataCellar, eFORT, B4A.</li>
+      <li>Contribution to research projects: 
+        <strong>Horizon Europe:</strong> 
+        <a href="https://cordis.europa.eu/project/id/101160614" target="_blank">EU-DREAM</a>, 
+        <a href="https://datacellarproject.eu/" target="_blank">DataCellar</a>, 
+        <a href="https://efort-project.eu/" target="_blank">eFORT</a>, 
+        <a href="https://inno-trec.eu/" target="_blank">INNO-TREC</a>;
+        <strong>Italian PRIN:</strong>
+        <a href="https://www.blockchain4all.it/" target="_blank">Blockchain4All (B4A)</a> (PRIN 2022, MUR).
+      </li>
       <li>Integration of IDSA connectors and SSI solutions; collaboration with university partners on prototypes and publications.</li>
       <li>Co-authored peer-reviewed papers and built project demonstrators.</li>
     </ul>

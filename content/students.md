@@ -10,6 +10,15 @@ subtitle: "Master thesis co-supervision at Politecnico di Torino."
 <div class="talk-item">
   <div class="talk-date">2024</div>
   <div class="talk-content">
+    <h3>Beatrice Sara</h3>
+    <div class="talk-venue">M.Sc. Thesis completed</div>
+    <div class="talk-location">M.Sc. in Mathematical Engineering, Politecnico di Torino. Co-supervisors: D. Bazzanella, S. Meneguzzo.</div>
+  </div>
+</div>
+
+<div class="talk-item">
+  <div class="talk-date">2024</div>
+  <div class="talk-content">
     <h3>Rachele Pierri</h3>
     <div class="talk-venue">Blockchain and Decentralized Autonomous Organization for Energy Community Sustainability</div>
     <div class="talk-location">M.Sc. in Mathematical Engineering, Politecnico di Torino. Co-supervisors: D. Bazzanella, S. Meneguzzo, A. Favenza.</div>
@@ -32,9 +41,9 @@ subtitle: "Master thesis co-supervision at Politecnico di Torino."
 <div class="talk-item">
   <div class="talk-date">2025-26</div>
   <div class="talk-content">
-    <h3>Beatrice Sara</h3>
-    <div class="talk-venue">M.Sc. thesis in progress</div>
-    <div class="talk-location">M.Sc. in Mathematical Engineering, Politecnico di Torino.</div>
+    <h3>Ren Yudie</h3>
+    <div class="talk-venue">M.Sc. thesis in progress: LLM and Smart Contract Security</div>
+    <div class="talk-location">M.Sc. in Computer Engineering, Politecnico di Torino.</div>
   </div>
 </div>
 

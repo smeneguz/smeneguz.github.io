@@ -58,6 +58,16 @@ subtitle: "Conference presentations, invited talks, academic service, and studen
 </div>
 
 <div class="talk-item">
+  <div class="talk-date">Jul 2024</div>
+  <div class="talk-content">
+    <div class="talk-type">Workshop Chair (Founder)</div>
+    <h3><a href="https://ieeecompsac.computer.org/2024/blockdlt/" target="_blank">BlockDLT 2024</a> -- 1st Edition</h3>
+    <div class="talk-venue">IEEE International Workshop on Blockchain and Distributed Ledger Technologies, at COMPSAC 2024</div>
+    <div class="talk-location">Osaka, Japan</div>
+  </div>
+</div>
+
+<div class="talk-item">
   <div class="talk-date">Oct 2023</div>
   <div class="talk-content">
     <div class="talk-type">Paper Presentation</div>
@@ -80,6 +90,16 @@ subtitle: "Conference presentations, invited talks, academic service, and studen
 ---
 
 ## Invited Talks and Seminars
+
+<div class="talk-item">
+  <div class="talk-date">Jun 2026</div>
+  <div class="talk-content">
+    <div class="talk-type">Workshop Presenter</div>
+    <h3><a href="https://convegni.unica.it/dlt2026/" target="_blank">DLT Workshop 2026</a></h3>
+    <div class="talk-venue"><a href="https://convegni.unica.it/dlt2026/program-dlt-workshop-4-6-june-2026/" target="_blank">Program</a> | University of Cagliari</div>
+    <div class="talk-location">Cagliari (Pula), Sardinia, Italy</div>
+  </div>
+</div>
 
 <div class="talk-item">
   <div class="talk-date">May 2025</div>
@@ -118,10 +138,30 @@ subtitle: "Conference presentations, invited talks, academic service, and studen
 <div class="talk-item">
   <div class="talk-date">2026</div>
   <div class="talk-content">
-    <div class="talk-type">Workshop Chair (Founder)</div>
-    <h3><a href="https://ieeecompsac.computer.org/2026/2nd-ieee-international-workshop-on-blockchain-and-distributed-ledger-technologies-blockdlt-2026/" target="_blank">BlockDLT 2026</a> -- 2nd Edition</h3>
+    <div class="talk-type">Workshop Chair</div>
+    <h3><a href="https://ieeecompsac.computer.org/2026/2nd-ieee-international-workshop-on-blockchain-and-distributed-ledger-technologies-blockdlt-2026/" target="_blank">BlockDLT 2026</a> -- 3rd Edition</h3>
     <div class="talk-venue">IEEE International Workshop on Blockchain and Distributed Ledger Technologies, at COMPSAC 2026</div>
-    <div class="talk-location">Macao, China</div>
+    <div class="talk-location">Madrid, Spain</div>
+  </div>
+</div>
+
+<div class="talk-item">
+  <div class="talk-date">2026</div>
+  <div class="talk-content">
+    <div class="talk-type">Workshop Chair</div>
+    <h3><a href="https://ieeecompsac.computer.org/2026/" target="_blank">IEEE Mentorium 2026</a></h3>
+    <div class="talk-venue">Building Blocks for Researchers</div>
+    <div class="talk-location">Madrid, Spain</div>
+  </div>
+</div>
+
+<div class="talk-item">
+  <div class="talk-date">2026</div>
+  <div class="talk-content">
+    <div class="talk-type">Symposium Chair</div>
+    <h3><a href="https://ieeecompsac.computer.org/2026/" target="_blank">IEEE COMPSAC 2026, Student Research Symposium</a></h3>
+    <div class="talk-venue">Student Research Symposium</div>
+    <div class="talk-location">Madrid, Spain</div>
   </div>
 </div>
 
@@ -132,6 +172,32 @@ subtitle: "Conference presentations, invited talks, academic service, and studen
     <h3><a href="https://conf.researchr.org/home/icse-2026/wetseb-2026" target="_blank">WETSEB 2026</a></h3>
     <div class="talk-venue">8th Workshop on Emerging Trends in Software Engineering for Blockchain, at ICSE 2026</div>
     <div class="talk-location">Rio de Janeiro, Brazil</div>
+  </div>
+</div>
+
+<div class="talk-item">
+  <div class="talk-date">2025-2026</div>
+  <div class="talk-content">
+    <div class="talk-type">Technical Program Committee</div>
+    <h3><a href="https://www.eai-conferences.org/icsc2025/" target="_blank">EAI ICSC 2025</a></h3>
+    <div class="talk-venue">12th International Conference on Smart Objects and Technologies for Social Good</div>
+  </div>
+</div>
+
+<div class="talk-item">
+  <div class="talk-date">2025</div>
+  <div class="talk-content">
+    <div class="talk-type">Technical Program Committee</div>
+    <h3><a href="https://sites.google.com/view/bandit2025/" target="_blank">BANDIT 2025</a></h3>
+    <div class="talk-venue">BlockchAin aNd DecentralIzed Technologies for Social Good</div>
+  </div>
+</div>
+
+<div class="talk-item">
+  <div class="talk-date">Ongoing</div>
+  <div class="talk-content">
+    <div class="talk-type">Program Committee Member</div>
+    <h3>Italian Distributed Ledger Technology Working Group</h3>
   </div>
 </div>
 
@@ -176,9 +242,19 @@ subtitle: "Conference presentations, invited talks, academic service, and studen
 </div>
 
 <div class="talk-item">
+  <div class="talk-date">Oct 2025</div>
+  <div class="talk-content">
+    <div class="talk-type">Invited Research Partner</div>
+    <h3><a href="https://citic.udc.es/en/international-projects-week/" target="_blank">CITIC International Research Projects Week</a></h3>
+    <div class="talk-venue">Universidade da Coru&ntilde;a</div>
+    <div class="talk-location">A Coru&ntilde;a, Spain</div>
+  </div>
+</div>
+
+<div class="talk-item">
   <div class="talk-date">Oct 2024</div>
   <div class="talk-content">
-    <div class="talk-type">Visiting Researcher</div>
+    <div class="talk-type">Invited Research Partner</div>
     <h3><a href="https://citic.udc.es/en/international-projects-week-concludes-at-citic-with-focus-on-future-opportunities-in-europe/" target="_blank">CITIC International Research Projects Week</a></h3>
     <div class="talk-venue">Universidade da Coru&ntilde;a</div>
     <div class="talk-location">A Coru&ntilde;a, Spain</div>
@@ -197,4 +273,6 @@ subtitle: "Conference presentations, invited talks, academic service, and studen
 
 ## Awards
 
-- **IOTA Hackathon** -- 3rd Place, Cagliari (Sep 2024) | [DLT School](https://dlt-school.github.io/)
+- **Blockstream Turin Simplicity Hackathon** -- 1st Prize with PQ Liquid Wallet project (2024) | Quantum-resistant signatures on Liquid Testnet | [Link](https://github.com/smeneguz/PQ-Liquid-Wallet)
+- **IOTA Hackathon** -- 3rd Prize, Cagliari (Sep 2024) | [DLT School](https://dlt-school.github.io/)
+- **IOTAxMasterZ Hackathon** -- Special Project Award (2024) | Innovative approach to IOTA ecosystem integration

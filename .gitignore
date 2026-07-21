@@ -2,3 +2,6 @@ public/
 resources/
 .hugo_build.lock
 .DS_Store
+
+UPDATES_SUMMARY.md
+CV_SM_2026.pdf

@@ -32,6 +32,10 @@ copyright = "Silvio Meneguzzo"
     url = "/publications/"
     weight = 4
   [[menu.main]]
+    name = "News"
+    url = "/news/"
+    weight = 4.5
+  [[menu.main]]
     name = "Talks"
     url = "/talks/"
     weight = 5
