@@ -1,79 +1,55 @@
 # News & Event Photos
 
-This folder structure organizes photos and visual content for the news and announcements section of the profile.
+Photos and visual content for the News page. All images here are web-optimized
+(max 1600 px long edge, JPEG quality ~80, EXIF rotation baked in). Full-resolution
+originals are kept locally in `originals_photos_backup/` (git-ignored).
 
 ## Folder Organization
 
 ```
 news/
-├── workshops/          # Photos from workshops and technical events
-│                      # Examples: BlockDLT, Mentorium, Hands-on Ethereum Workshop
-├── awards/            # Award ceremonies and recognition photos
-│                      # Examples: Hackathon prizes, special recognitions
 ├── conferences/       # Conference presentations and moments
-│                      # Examples: COMPSAC, ICSE, paper presentations
-└── events/           # Other professional activities and events
-                      # Examples: Research visits, seminars, collaborations
+│                      # COMPSAC 2023 Torino, COMPSAC 2025 Toronto,
+│                      # ICSE 2026 Rio, COMPSAC 2026 Madrid
+├── workshops/         # Workshop leadership and invited workshop talks
+│                      # BlockDLT (COMPSAC), DLT Workshop (Pula 2026),
+│                      # CrypTO Conference 2025 (Politecnico di Torino)
+├── awards/            # Award ceremonies and recognitions
+│                      # IEEE Certificate of Appreciation, COMPSAC 2026 Madrid
+└── events/            # Other professional activities
+                       # zkSummit14 Rome, DLT School Cagliari, Brunel London
+                       # visiting period, seminars, PhD programme talks
 ```
 
-## Adding Photos
+## Naming Convention
 
-1. **Naming Convention**: Use descriptive names with dates
-   - Format: `YYYY-MM-DD_description.jpg`
-   - Example: `2024-07-15_compsac-osaka-presentation.jpg`
+`YYYY-MM_short-kebab-description.jpg` (month omitted when unknown).
+The date is the date of the event, not of upload.
 
-2. **Recommended Format**:
-   - Format: JPG or PNG
-   - Resolution: 1920×1080 minimum for best display
-   - File size: Optimized for web (keep under 2MB)
+## Adding a Photo
 
-3. **Adding to News**: Update `content/news.md` with photos and context
-   ```markdown
-   <img src="/images/news/workshops/2025-07-blockdlt-toronto.jpg" alt="BlockDLT 2025 Toronto" style="max-width: 100%; border-radius: 8px; margin: 1rem 0;">
-   ```
+1. Optimize before committing (keep files under ~400 KB):
+   `python3` + Pillow: resize to max 1600 px, `ImageOps.exif_transpose`, save
+   JPEG quality 80. Large phone photos (4-6 MB) slow the site down.
+2. Place it in the right folder above with a dated name.
+3. Reference it from `content/news.md` using the gallery markup:
 
-## Photo Collections Needed
-
-### Workshops & Technical Events
-- [ ] BlockDLT 2024 (Osaka)
-- [ ] BlockDLT 2025 (Toronto)  
-- [ ] IEEE Mentorium 2025 (Toronto)
-- [ ] IEEE Student Research Symposium 2025 (Toronto)
-- [ ] Hands-on Ethereum Workshop (Torino, 2025)
-- [ ] CrypTO SERICS Workshop (Torino, 2025)
-
-### Awards & Recognition
-- [ ] Blockstream Turin Simplicity Hackathon - 1st Prize (2024)
-- [ ] IOTAxMasterZ Hackathon - Special Award (2024)
-- [ ] IOTA Hackathon - 3rd Prize (Cagliari, 2024)
-
-### Conferences
-- [ ] COMPSAC 2024 (Osaka) - paper presentation moment
-- [ ] COMPSAC 2025 (Toronto) - multiple presentations
-- [ ] Other conference moments
-
-### Professional Collaborations
-- [ ] CITIC Research Week visits (Spain, 2024-2025)
-- [ ] Brunel University London visiting researcher (2024-2025)
-- [ ] Research team photos at Links Foundation
-- [ ] University of Turin research activities
-
-## Citation & Attribution
-
-When adding photos, include:
-- Date and location
-- Event name
-- Brief context/caption
-- Any required photo credits
-
-## Example Entry in news.md
-
-```markdown
-<div class="news-item-with-photo">
-  <img src="/images/news/conferences/2024-07-compsac-osaka.jpg" alt="COMPSAC 2024 Osaka Presentation">
-  <div class="news-content">
-    <h3>COMPSAC 2024 Osaka: Paper Presentation</h3>
-    <p>Presenting "Shaping the Future of Energy Markets" at IEEE COMPSAC in Osaka, Japan, July 2024.</p>
-  </div>
+```html
+<div class="photo-grid">
+  <figure class="photo-card">
+    <img src="/images/news/conferences/2026-07_compsac-madrid-group.jpg"
+         alt="Short description" loading="lazy">
+    <figcaption>Caption with event, place, date.</figcaption>
+  </figure>
 </div>
 ```
+
+Use `photo-grid` for 2-3 landscape images; add class `photo-grid--tall`
+for portrait-oriented sets so rows stay compact.
+
+## Captions: verify before writing
+
+File names are not always reliable — several photos arrived labeled with the
+wrong conference or year (e.g. a "COMPSAC_2026" file that was actually COMPSAC
+2025 Toronto, a "BRAINS_2024_Paris" file that was a PhD programme talk).
+Check what is visible in the photo (banners, slides, badges) before captioning.

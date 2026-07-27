@@ -8,11 +8,48 @@ subtitle: "Peer-reviewed papers, book chapters, and preprints."
 <h2 class="pub-year">2026</h2>
 
 <div class="pub-item">
+  <div class="pub-title">From Factory Floor to Digital Product Passport: A Dual-Chain NFT Architecture for Automotive Traceability</div>
+  <div class="pub-authors"><strong>S. Meneguzzo</strong>, A. Favenza, A. Mozzato</div>
+  <div class="pub-venue">SESS workshop, IEEE COMPSAC 2026, Madrid, Spain (to appear in the proceedings)</div>
+  <div class="pub-links">
+    <a class="pub-link" href="https://ieeecompsac.computer.org/2026/final-program/" target="_blank">Program</a>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div class="pub-title">Measuring the Cost of Trust: Blockchain Integrity Verification Overhead in Energy Digital Twin Pipelines</div>
+  <div class="pub-authors"><strong>S. Meneguzzo</strong>, N. Bertozzi, M. Sacchet, A. Mozzato, A. Favenza</div>
+  <div class="pub-venue">ICT4SMARTGRID workshop, IEEE COMPSAC 2026, Madrid, Spain (to appear in the proceedings)</div>
+  <div class="pub-links">
+    <a class="pub-link" href="https://ieeecompsac.computer.org/2026/final-program/" target="_blank">Program</a>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div class="pub-title">Portus: A Resource-Safe Electronic Bill of Lading Protocol on IOTA Move with Cross-Platform Interoperability</div>
+  <div class="pub-authors"><strong>S. Meneguzzo</strong>, S. Leto</div>
+  <div class="pub-venue">SAPSE workshop, IEEE COMPSAC 2026, Madrid, Spain (to appear in the proceedings)</div>
+  <div class="pub-links">
+    <a class="pub-link" href="https://ieeecompsac.computer.org/2026/final-program/" target="_blank">Program</a>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div class="pub-title">The Illusion of Decentralised Governance: A Structural Analysis of 50 DAOs Across Eight Blockchain Networks</div>
+  <div class="pub-authors"><strong>S. Meneguzzo</strong>, B. Sara, C. Schifanella, A. Favenza, D. Bazzanella</div>
+  <div class="pub-venue">DLT2026 -- 8th Distributed Ledger Technology Workshop, Santa Margherita di Pula, Italy</div>
+  <div class="pub-links">
+    <a class="pub-link" href="https://convegni.unica.it/dlt2026/" target="_blank">Workshop</a>
+  </div>
+</div>
+
+<div class="pub-item">
   <div class="pub-title"><a href="https://arxiv.org/abs/2601.14927" target="_blank">Operationalising DAO Sustainability KPIs: A Multi-Chain Dashboard for Governance Analytics</a></div>
   <div class="pub-authors"><strong>S. Meneguzzo</strong>, C. Schifanella, V. Gatteschi, G. Destefanis</div>
-  <div class="pub-venue">ICSE FinanSE 2026, Rio de Janeiro, Brazil</div>
+  <div class="pub-venue">FinanSE workshop, ICSE 2026, Rio de Janeiro, Brazil</div>
   <div class="pub-links">
     <a class="pub-link" href="https://arxiv.org/abs/2601.14927" target="_blank">arXiv</a>
+    <a class="pub-link" href="https://dblp.org/db/conf/finanse/finanse2026.html" target="_blank">DBLP</a>
   </div>
 </div>
 

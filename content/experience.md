@@ -81,7 +81,7 @@ subtitle: "Work history across research, software engineering, and project coord
 </div>
 
 <div class="timeline-item">
-  <div class="timeline-date">Jul 2017 - Jun 2017</div>
+  <div class="timeline-date">2017</div>
   <div class="timeline-title">Project Coordinator</div>
   <div class="timeline-org">Red Babel, Amsterdam, Netherlands</div>
   <div class="timeline-desc">

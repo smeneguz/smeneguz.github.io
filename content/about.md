@@ -7,7 +7,7 @@ subtitle: "Researcher, developer, and community organiser working on blockchain 
 
 ## Bio
 
-I am a PhD in **Blockchain and Distributed Ledger Technologies** within the [National PhD Program ISAS](https://isas.unicam.it/dni/blockchain-and-DLT) (University of Turin / University of Camerino), now transitioning to a **Research Fellow** at the [University of Turin](https://www.unito.it/). My research is carried out jointly at the [Department of Computer Science, University of Turin](https://www.di.unito.it/do/home.pl) and [Links Foundation](https://linksfoundation.com/en/) in Torino.
+I am a PhD in **Blockchain and Distributed Ledger Technologies** within the [National PhD Program ISAS](https://isas.unicam.it/dni/blockchain-and-DLT) (University of Turin / University of Camerino), and currently a **Research Fellow** at the [University of Turin](https://www.unito.it/). My research is carried out jointly at the [Department of Computer Science, University of Turin](https://www.di.unito.it/do/home.pl) and [Links Foundation](https://linksfoundation.com/en/) in Torino.
 
 I work on **distributed systems**, **applied cryptography**, and **software engineering**. Concretely, I design blockchain-based data marketplaces for the energy domain, study DAO governance sustainability through on-chain metrics, and experiment with privacy-preserving techniques like Zero-Knowledge proofs, MPC, and FHE. I also have a growing interest in Layer 2 scaling solutions and the foundational protocol layer of blockchain systems.
 

@@ -8,6 +8,46 @@ subtitle: "Conference presentations, invited talks, academic service, and studen
 ## Conference Presentations
 
 <div class="talk-item">
+  <div class="talk-date">Jul 2026</div>
+  <div class="talk-content">
+    <div class="talk-type">Paper Presentation</div>
+    <h3>From Factory Floor to Digital Product Passport: A Dual-Chain NFT Architecture for Automotive Traceability</h3>
+    <div class="talk-venue">SESS 2026 workshop, IEEE COMPSAC 2026</div>
+    <div class="talk-location">Madrid, Spain</div>
+  </div>
+</div>
+
+<div class="talk-item">
+  <div class="talk-date">Jul 2026</div>
+  <div class="talk-content">
+    <div class="talk-type">Paper Presentation</div>
+    <h3>Measuring the Cost of Trust: Blockchain Integrity Verification Overhead in Energy Digital Twin Pipelines</h3>
+    <div class="talk-venue">ICT4SMARTGRID 2026 workshop, IEEE COMPSAC 2026</div>
+    <div class="talk-location">Madrid, Spain</div>
+  </div>
+</div>
+
+<div class="talk-item">
+  <div class="talk-date">Jul 2026</div>
+  <div class="talk-content">
+    <div class="talk-type">Paper Presentation</div>
+    <h3>Portus: A Resource-Safe Electronic Bill of Lading Protocol on IOTA Move with Cross-Platform Interoperability</h3>
+    <div class="talk-venue">SAPSE 2026 workshop, IEEE COMPSAC 2026</div>
+    <div class="talk-location">Madrid, Spain</div>
+  </div>
+</div>
+
+<div class="talk-item">
+  <div class="talk-date">Jun 2026</div>
+  <div class="talk-content">
+    <div class="talk-type">Paper Presentation</div>
+    <h3>The Illusion of Decentralised Governance: A Structural Analysis of 50 DAOs Across Eight Blockchain Networks</h3>
+    <div class="talk-venue"><a href="https://convegni.unica.it/dlt2026/" target="_blank">DLT2026 -- 8th Distributed Ledger Technology Workshop</a> (<a href="https://convegni.unica.it/dlt2026/program-dlt-workshop-4-6-june-2026/" target="_blank">Program</a>) | University of Cagliari</div>
+    <div class="talk-location">Santa Margherita di Pula, Sardinia, Italy</div>
+  </div>
+</div>
+
+<div class="talk-item">
   <div class="talk-date">Apr 2026</div>
   <div class="talk-content">
     <div class="talk-type">Paper Presentation</div>
@@ -58,16 +98,6 @@ subtitle: "Conference presentations, invited talks, academic service, and studen
 </div>
 
 <div class="talk-item">
-  <div class="talk-date">Jul 2024</div>
-  <div class="talk-content">
-    <div class="talk-type">Workshop Chair (Founder)</div>
-    <h3><a href="https://ieeecompsac.computer.org/2024/blockdlt/" target="_blank">BlockDLT 2024</a> -- 1st Edition</h3>
-    <div class="talk-venue">IEEE International Workshop on Blockchain and Distributed Ledger Technologies, at COMPSAC 2024</div>
-    <div class="talk-location">Osaka, Japan</div>
-  </div>
-</div>
-
-<div class="talk-item">
   <div class="talk-date">Oct 2023</div>
   <div class="talk-content">
     <div class="talk-type">Paper Presentation</div>
@@ -92,21 +122,11 @@ subtitle: "Conference presentations, invited talks, academic service, and studen
 ## Invited Talks and Seminars
 
 <div class="talk-item">
-  <div class="talk-date">Jun 2026</div>
-  <div class="talk-content">
-    <div class="talk-type">Workshop Presenter</div>
-    <h3><a href="https://convegni.unica.it/dlt2026/" target="_blank">DLT Workshop 2026</a></h3>
-    <div class="talk-venue"><a href="https://convegni.unica.it/dlt2026/program-dlt-workshop-4-6-june-2026/" target="_blank">Program</a> | University of Cagliari</div>
-    <div class="talk-location">Cagliari (Pula), Sardinia, Italy</div>
-  </div>
-</div>
-
-<div class="talk-item">
   <div class="talk-date">May 2025</div>
   <div class="talk-content">
     <div class="talk-type">Invited Speaker</div>
-    <h3>CrypTO SERICS Workshop</h3>
-    <div class="talk-venue"><a href="https://www.polito.it/ateneo/comunicazione-e-ufficio-stampa/appuntamenti/news?idn=25869" target="_blank">Politecnico di Torino</a></div>
+    <h3>"DAO e Società" -- CrypTO Conference 2025 (SERICS Workshop)</h3>
+    <div class="talk-venue"><a href="https://crypto.polito.it/crypto_conference" target="_blank">CrypTO Conference</a> | <a href="https://www.polito.it/ateneo/comunicazione-e-ufficio-stampa/appuntamenti/news?idn=25869" target="_blank">Politecnico di Torino</a></div>
     <div class="talk-location">Torino, Italy</div>
   </div>
 </div>
@@ -139,7 +159,7 @@ subtitle: "Conference presentations, invited talks, academic service, and studen
   <div class="talk-date">2026</div>
   <div class="talk-content">
     <div class="talk-type">Workshop Chair</div>
-    <h3><a href="https://ieeecompsac.computer.org/2026/2nd-ieee-international-workshop-on-blockchain-and-distributed-ledger-technologies-blockdlt-2026/" target="_blank">BlockDLT 2026</a> -- 3rd Edition</h3>
+    <h3><a href="https://ieeecompsac.computer.org/2026/2nd-ieee-international-workshop-on-blockchain-and-distributed-ledger-technologies-blockdlt-2026/" target="_blank">BlockDLT 2026</a> -- 2nd Edition</h3>
     <div class="talk-venue">IEEE International Workshop on Blockchain and Distributed Ledger Technologies, at COMPSAC 2026</div>
     <div class="talk-location">Madrid, Spain</div>
   </div>
@@ -149,8 +169,8 @@ subtitle: "Conference presentations, invited talks, academic service, and studen
   <div class="talk-date">2026</div>
   <div class="talk-content">
     <div class="talk-type">Workshop Chair</div>
-    <h3><a href="https://ieeecompsac.computer.org/2026/" target="_blank">IEEE Mentorium 2026</a></h3>
-    <div class="talk-venue">Building Blocks for Researchers</div>
+    <h3><a href="https://ieeecompsac.computer.org/2026/2nd-ieee-mentorium-workshop-building-blocks-for-early-career-researchers-mentorium-2026/" target="_blank">IEEE Mentorium 2026</a> -- 2nd Edition</h3>
+    <div class="talk-venue">Building Blocks for Early-Career Researchers, at COMPSAC 2026</div>
     <div class="talk-location">Madrid, Spain</div>
   </div>
 </div>
@@ -158,9 +178,9 @@ subtitle: "Conference presentations, invited talks, academic service, and studen
 <div class="talk-item">
   <div class="talk-date">2026</div>
   <div class="talk-content">
-    <div class="talk-type">Symposium Chair</div>
-    <h3><a href="https://ieeecompsac.computer.org/2026/" target="_blank">IEEE COMPSAC 2026, Student Research Symposium</a></h3>
-    <div class="talk-venue">Student Research Symposium</div>
+    <div class="talk-type">Symposium Co-Chair</div>
+    <h3><a href="https://ieeecompsac.computer.org/2026/srs-2026/" target="_blank">IEEE COMPSAC 2026, Student Research Symposium (SRS 2026)</a></h3>
+    <div class="talk-venue">Recognised with an IEEE Computer Society Certificate of Appreciation</div>
     <div class="talk-location">Madrid, Spain</div>
   </div>
 </div>
@@ -179,8 +199,8 @@ subtitle: "Conference presentations, invited talks, academic service, and studen
   <div class="talk-date">2025-2026</div>
   <div class="talk-content">
     <div class="talk-type">Technical Program Committee</div>
-    <h3><a href="https://www.eai-conferences.org/icsc2025/" target="_blank">EAI ICSC 2025</a></h3>
-    <div class="talk-venue">12th International Conference on Smart Objects and Technologies for Social Good</div>
+    <h3><a href="https://goodtechs.eai-conferences.org/2026/" target="_blank">EAI GOODTECHS</a></h3>
+    <div class="talk-venue">EAI International Conference on Smart Objects and Technologies for Social Good (11th-12th editions)</div>
   </div>
 </div>
 
