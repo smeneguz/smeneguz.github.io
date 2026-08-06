@@ -32,24 +32,20 @@ copyright = "Silvio Meneguzzo"
     url = "/publications/"
     weight = 4
   [[menu.main]]
-    name = "News"
-    url = "/news/"
-    weight = 4.5
+    name = "Teaching"
+    url = "/teaching/"
+    weight = 5
   [[menu.main]]
     name = "Talks"
     url = "/talks/"
-    weight = 5
+    weight = 6
   [[menu.main]]
     name = "Experience"
     url = "/experience/"
-    weight = 6
-  [[menu.main]]
-    name = "Students"
-    url = "/students/"
     weight = 7
   [[menu.main]]
-    name = "Collaborate"
-    url = "/collaborate/"
+    name = "News"
+    url = "/news/"
     weight = 8
   [[menu.main]]
     name = "Contact"

@@ -3,8 +3,6 @@ title: "Publications"
 subtitle: "Peer-reviewed papers, book chapters, and preprints."
 ---
 
-<div class="section-divider"></div>
-
 <h2 class="pub-year">2026</h2>
 
 <div class="pub-item">

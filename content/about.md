@@ -3,8 +3,6 @@ title: "About"
 subtitle: "Researcher, developer, and community organiser working on blockchain and applied cryptography."
 ---
 
-<div class="section-divider"></div>
-
 ## Bio
 
 I am a PhD in **Blockchain and Distributed Ledger Technologies** within the [National PhD Program ISAS](https://isas.unicam.it/dni/blockchain-and-DLT) (University of Turin / University of Camerino), and currently a **Research Fellow** at the [University of Turin](https://www.unito.it/). My research is carried out jointly at the [Department of Computer Science, University of Turin](https://www.di.unito.it/do/home.pl) and [Links Foundation](https://linksfoundation.com/en/) in Torino.
@@ -13,9 +11,10 @@ I work on **distributed systems**, **applied cryptography**, and **software engi
 
 In 2024-2025, I spent time as a **visiting researcher** at [Brunel University London](https://www.brunel.ac.uk/).
 
+On the teaching side, I lecture in the *Blockchain and Payments* module of the [Master in Cybersecurity](https://www.mastercybersecuritytorino.it/) at the University of Turin and co-supervise M.Sc. theses at Politecnico di Torino &mdash; details on the [teaching page](/teaching/).
+
 Outside of research, I organise [TEDxSchio](https://www.ted.com/profiles/10204915/about), have directed the [Startup Grind Padova](https://www.startupgrind.com/) chapter, and serve as an [Ocean Protocol Ambassador](https://oceanprotocol.com/).
 
----
 
 ## Education
 
@@ -47,7 +46,6 @@ Outside of research, I organise [TEDxSchio](https://www.ted.com/profiles/1020491
   </div>
 </div>
 
----
 
 ## Skills
 

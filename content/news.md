@@ -3,8 +3,6 @@ title: "News & Updates"
 subtitle: "Recent activities, workshop leadership, conference announcements, and professional highlights."
 ---
 
-<div class="section-divider"></div>
-
 ## 2026
 
 <div class="news-item">
@@ -140,7 +138,20 @@ subtitle: "Recent activities, workshop leadership, conference announcements, and
   </div>
 </div>
 
----
+<div class="news-item">
+  <div class="news-date">2026</div>
+  <div class="news-content">
+    <h3>Teaching the "Blockchain and Payments" Module in the Master in Cybersecurity</h3>
+    <div class="news-summary">
+      Appointed adjunct lecturer (docente a contratto) for the <em>Blockchain and Payments</em> module of the <a href="https://www.mastercybersecuritytorino.it/" target="_blank">Master di I Livello in Cybersecurity</a> at the University of Turin (VI edition, a.y. 2025/26). Ten hours combining theory and hands-on practice on smart contract security, DeFi, DAOs, oracles, and zero-knowledge proofs. <a href="/teaching/">Teaching &rarr;</a>
+    </div>
+    <div class="news-tags">
+      <span class="tag">Teaching</span>
+      <span class="tag">Cybersecurity</span>
+    </div>
+  </div>
+</div>
+
 
 ## 2025
 
@@ -242,7 +253,6 @@ subtitle: "Recent activities, workshop leadership, conference announcements, and
   </div>
 </div>
 
----
 
 ## 2024
 
@@ -332,7 +342,6 @@ subtitle: "Recent activities, workshop leadership, conference announcements, and
   </div>
 </div>
 
----
 
 ## 2023
 
@@ -394,7 +403,6 @@ subtitle: "Recent activities, workshop leadership, conference announcements, and
   </div>
 </div>
 
----
 
 ## Additional Resources
 
@@ -403,4 +411,4 @@ For a comprehensive overview of recent academic activities, papers, and research
 - [Publications](../publications) - Peer-reviewed papers and book chapters
 - [Talks & Activities](../talks) - Conference presentations, academic service, and invited seminars
 - [Research](../research) - Current research projects and focus areas
-- [Students](../students) - Supervised thesis work and mentoring activities
+- [Teaching](../teaching) - Lecturing and supervised thesis work

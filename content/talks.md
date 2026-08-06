@@ -1,9 +1,7 @@
 ---
 title: "Talks & Activities"
-subtitle: "Conference presentations, invited talks, academic service, and student co-supervision."
+subtitle: "Conference presentations, invited talks, academic service, and community work."
 ---
-
-<div class="section-divider"></div>
 
 ## Conference Presentations
 
@@ -117,7 +115,6 @@ subtitle: "Conference presentations, invited talks, academic service, and studen
   </div>
 </div>
 
----
 
 ## Invited Talks and Seminars
 
@@ -151,7 +148,6 @@ subtitle: "Conference presentations, invited talks, academic service, and studen
   </div>
 </div>
 
----
 
 ## Academic Service
 
@@ -281,7 +277,6 @@ subtitle: "Conference presentations, invited talks, academic service, and studen
   </div>
 </div>
 
----
 
 ## Volunteering and Community
 
@@ -289,7 +284,6 @@ subtitle: "Conference presentations, invited talks, academic service, and studen
 - **Startup Grind Padova** -- Chapter Director (2019 - 2023) | [Startup Grind](https://www.startupgrind.com/)
 - **Ocean Protocol Ambassador** (2023)
 
----
 
 ## Awards
 

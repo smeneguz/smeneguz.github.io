@@ -3,8 +3,6 @@ title: "Experience"
 subtitle: "Work history across research, software engineering, and project coordination."
 ---
 
-<div class="section-divider"></div>
-
 ## Work Experience
 
 <div class="timeline">
@@ -94,7 +92,6 @@ subtitle: "Work history across research, software engineering, and project coord
 
 </div>
 
----
 
 ## Open Source and Projects
 

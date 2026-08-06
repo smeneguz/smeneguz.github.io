@@ -1,9 +1,9 @@
 ---
 title: "Contact"
-subtitle: "Feel free to reach out for research collaborations, speaking invitations, or just to say hello."
+subtitle: "Open to thesis supervision, research collaborations, visiting stays, and speaking invitations."
+aliases:
+  - /collaborate/
 ---
-
-<div class="section-divider"></div>
 
 <div class="contact-grid">
   <a href="mailto:meneguzzosilvio@gmail.com" class="contact-item" style="text-decoration: none;">
@@ -57,7 +57,33 @@ subtitle: "Feel free to reach out for research collaborations, speaking invitati
   </a>
 </div>
 
-<br>
+## Work With Me
+
+### Thesis Topics
+
+I regularly co-supervise M.Sc. theses at **Politecnico di Torino**, in collaboration with Links Foundation and the University of Turin ([past and current theses](/teaching/)). Topics I currently propose:
+
+- Blockchain protocol design and smart contract development
+- Decentralized data marketplaces and energy applications
+- DAO governance analysis and on-chain metrics
+- Privacy-preserving techniques (ZK proofs, MPC, FHE)
+- Layer 2 scaling solutions and rollup architectures
+- Self-Sovereign Identity (SSI) and verifiable credentials
+- DLT-based secure data exchange for health and energy domains
+
+If one of these interests you (or something adjacent), write to me with a short description of your background.
+
+### Research Collaborations
+
+I am always open to working with researchers and engineers on distributed ledger technologies, applied cryptography, and decentralized systems &mdash; particularly on joint work in EU-funded projects (Horizon Europe, Digital Europe), cross-institutional research visits, industry proof-of-concept development, and the co-organization of workshops and academic events.
+
+### Visiting Researchers
+
+If you are a PhD student or postdoc interested in a short-term research visit at Links Foundation or the University of Turin on DLT-related topics, get in touch. I have experience both hosting and being a visiting researcher (Brunel University London, CITIC Universidade da Coru&ntilde;a).
+
+## References
+
+<a href="https://informatica.unito.it/persone/claudio.schifanella" target="_blank">Prof. Claudio Schifanella</a> (Associate Professor, Department of Computer Science, University of Turin) is available as a reference for my research fellowship and teaching activity. Further academic and industry references on request.
 
 ## Address
 

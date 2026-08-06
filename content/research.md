@@ -3,8 +3,6 @@ title: "Research"
 subtitle: "I work on distributed ledger technologies, from protocol-level design to real-world applications in energy, governance, and privacy."
 ---
 
-<div class="section-divider"></div>
-
 ## Research Areas
 
 <div class="research-area">
@@ -93,7 +91,6 @@ subtitle: "I work on distributed ledger technologies, from protocol-level design
   </div>
 </div>
 
----
 
 ## European Projects
 
@@ -126,7 +123,6 @@ At Links Foundation, I contribute to several EU-funded research projects where a
   </div>
 </div>
 
----
 
 ## Collaborators and Groups
 
