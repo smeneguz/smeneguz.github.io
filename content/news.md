@@ -6,6 +6,21 @@ subtitle: "Recent activities, workshop leadership, conference announcements, and
 ## 2026
 
 <div class="news-item">
+  <div class="news-date">Aug 2026</div>
+  <div class="news-content">
+    <h3>Second zkintro Volume Published in Italian</h3>
+    <div class="news-summary">
+      <a href="https://zkintro.com/it/articles/programming-zkps-from-zero-to-hero/" target="_blank"><em>Programmare le ZKP: From Zero to Hero</em></a> is out &mdash; my Italian translation and adaptation of the second volume of <a href="https://zkintro.com/" target="_blank">zkintro</a>, Oskar Thor&eacute;n's open-access book series on zero-knowledge proofs. It is merged in the <a href="https://github.com/zkintro/zkintro" target="_blank">official repository</a> and published on zkintro.com next to the English, Spanish, Portuguese, and Chinese editions. The third and final volume, on the mathematics behind ZKPs, is in translation. <a href="/publications/#books">All volumes &rarr;</a>
+    </div>
+    <div class="news-tags">
+      <span class="tag">Books</span>
+      <span class="tag">Zero Knowledge</span>
+      <span class="tag">Open Access</span>
+    </div>
+  </div>
+</div>
+
+<div class="news-item">
   <div class="news-date">Jul 2026</div>
   <div class="news-content">
     <h3>IEEE COMPSAC 2026, Madrid: BlockDLT 2nd Edition, Three Papers, and an IEEE Recognition</h3>
@@ -165,6 +180,21 @@ subtitle: "Recent activities, workshop leadership, conference announcements, and
     <div class="news-tags">
       <span class="tag">International Collaboration</span>
       <span class="tag">Spain</span>
+    </div>
+  </div>
+</div>
+
+<div class="news-item">
+  <div class="news-date">Sep 2025</div>
+  <div class="news-content">
+    <h3>zkintro Now Available in Italian</h3>
+    <div class="news-summary">
+      <a href="https://zkintro.com/it/articles/friendly-introduction-to-zero-knowledge/" target="_blank"><em>Introduzione semplificata alla Zero Knowledge</em></a> went live: the first volume of <a href="https://zkintro.com/" target="_blank">zkintro</a> translated and adapted into Italian, and the start of the Italian edition of the series. Italian joined English, Spanish, Portuguese, and Chinese as a supported language in the <a href="https://github.com/zkintro/zkintro" target="_blank">project repository</a>.
+    </div>
+    <div class="news-tags">
+      <span class="tag">Books</span>
+      <span class="tag">Zero Knowledge</span>
+      <span class="tag">Open Access</span>
     </div>
   </div>
 </div>

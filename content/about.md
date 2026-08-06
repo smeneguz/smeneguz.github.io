@@ -13,6 +13,8 @@ In 2024-2025, I spent time as a **visiting researcher** at [Brunel University Lo
 
 On the teaching side, I lecture in the *Blockchain and Payments* module of the [Master in Cybersecurity](https://www.mastercybersecuritytorino.it/) at the University of Turin and co-supervise M.Sc. theses at Politecnico di Torino &mdash; details on the [teaching page](/teaching/).
 
+I also curate the **Italian edition of [zkintro](https://zkintro.com/it/articles/)**, an open-access book series introducing zero-knowledge proofs: two of the three volumes are translated and published, the third is in progress ([books](/publications/#books)).
+
 Outside of research, I organise [TEDxSchio](https://www.ted.com/profiles/10204915/about), have directed the [Startup Grind Padova](https://www.startupgrind.com/) chapter, and serve as an [Ocean Protocol Ambassador](https://oceanprotocol.com/).
 
 

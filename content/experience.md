@@ -98,13 +98,13 @@ subtitle: "Work history across research, software engineering, and project coord
 Selected projects from my [GitHub](https://github.com/smeneguz):
 
 <div class="card-grid">
-  <a href="https://github.com/smeneguz/zkintro" target="_blank" class="card" style="text-decoration: none;">
+  <a href="https://github.com/zkintro/zkintro" target="_blank" class="card" style="text-decoration: none;">
     <div class="card-label">Zero Knowledge</div>
-    <h3>zkintro</h3>
-    <p>Italian adaptation of Zero-Knowledge Proofs materials: math, programming guides, and applied examples.</p>
+    <h3>zkintro &mdash; Italian edition</h3>
+    <p>Curator of the Italian edition of the zkintro book series on zero-knowledge proofs. Two volumes translated and published upstream, the third in progress.</p>
     <div class="tag-list">
-      <span class="tag">JavaScript</span>
       <span class="tag">ZK Proofs</span>
+      <span class="tag">Open Access</span>
     </div>
   </a>
   <a href="https://github.com/smeneguz/dao-data-visualization" target="_blank" class="card" style="text-decoration: none;">

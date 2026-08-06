@@ -394,16 +394,20 @@ img { max-width: 100%; height: auto; }
 /* ========================================
    Publications
    ======================================== */
-.pub-year {
-  font-size: 1.3rem;
-  font-weight: 700;
-  color: var(--text-primary);
-  margin-top: 40px;
-  margin-bottom: 20px;
-  padding-bottom: 10px;
-  border-bottom: 2px solid var(--accent);
-  display: inline-block;
+/* Year headings sit one level below section headings: a small accent label,
+   no underline and no accent tick (see .page-content h2). */
+.page-content h2.pub-year {
+  display: block;
+  font-family: var(--font-mono);
+  font-size: 0.95rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  color: var(--accent);
+  margin-top: 44px;
+  margin-bottom: 4px;
 }
+
+.page-content h2.pub-year::before { content: none; }
 
 .pub-item {
   padding: 20px 0;
