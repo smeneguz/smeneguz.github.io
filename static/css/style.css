@@ -702,6 +702,45 @@ img { max-width: 100%; height: auto; }
 }
 
 /* ========================================
+   References (Contact)
+   ======================================== */
+.ref-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 16px;
+}
+
+.ref-item {
+  padding: 20px 24px;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+}
+
+.ref-name {
+  font-size: 1rem;
+  font-weight: 600;
+  margin-bottom: 2px;
+}
+
+.ref-name a { color: var(--text-primary); }
+.ref-name a:hover { color: var(--accent); }
+
+.ref-role {
+  font-size: 0.85rem;
+  color: var(--accent);
+  font-weight: 500;
+  line-height: 1.5;
+  margin-bottom: 8px;
+}
+
+.ref-context {
+  font-size: 0.88rem;
+  color: var(--text-secondary);
+  line-height: 1.6;
+}
+
+/* ========================================
    Highlights (Home)
    ======================================== */
 .highlights {

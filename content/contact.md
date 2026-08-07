@@ -83,7 +83,25 @@ If you are a PhD student or postdoc interested in a short-term research visit at
 
 ## References
 
-<a href="https://informatica.unito.it/persone/claudio.schifanella" target="_blank">Prof. Claudio Schifanella</a> (Associate Professor, Department of Computer Science, University of Turin) is available as a reference for my research fellowship and teaching activity. Further academic and industry references on request.
+Colleagues who can speak to my research, teaching, and thesis supervision. Contact details available on request.
+
+<div class="ref-grid">
+  <div class="ref-item">
+    <div class="ref-name"><a href="https://informatica.unito.it/persone/claudio.schifanella" target="_blank">Prof. Claudio Schifanella</a></div>
+    <div class="ref-role">Associate Professor, Department of Computer Science, University of Turin</div>
+    <div class="ref-context">Supervisor of my research fellowship at the University of Turin and co-author on my work on DAO governance and energy data marketplaces.</div>
+  </div>
+  <div class="ref-item">
+    <div class="ref-name"><a href="https://www.polito.it/en/staff?p=valentina.gatteschi" target="_blank">Prof. Valentina Gatteschi</a></div>
+    <div class="ref-role">Associate Professor, Department of Control and Computer Engineering (DAUIN), Politecnico di Torino</div>
+    <div class="ref-context">My most frequent co-author, across work on DAO sustainability metrics, smart contract usability, and blockchain for energy systems.</div>
+  </div>
+  <div class="ref-item">
+    <div class="ref-name">Alfredo Favenza</div>
+    <div class="ref-role">Program Manager, Blockchain Research Program, <a href="https://linksfoundation.com/en/innovation/technical-scientific-domains/blockchain-and-distributed-ledger-technology-dlt/" target="_blank">Links Foundation</a></div>
+    <div class="ref-context">Leads the blockchain and DLT team in which I have carried out my research since 2022. Co-supervisor of two of my M.Sc. thesis students and co-author on our energy data marketplace publications.</div>
+  </div>
+</div>
 
 ## Address
 
