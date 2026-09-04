@@ -8,6 +8,8 @@
   <meta name="author" content="Silvio Meneguzzo">
   <meta name="keywords" content="Silvio Meneguzzo, blockchain, DLT, distributed ledger, researcher, PhD, University of Turin, Links Foundation, DAO, data marketplace, cryptography, smart contracts">
   <link rel="canonical" href="{{ .Permalink }}">
+  {{ with .Site.Params.googleSiteVerification }}<meta name="google-site-verification" content="{{ . }}">{{ end }}
+  {{ with .Site.Params.bingSiteVerification }}<meta name="msvalidate.01" content="{{ . }}">{{ end }}
 
   <!-- Open Graph (Facebook, LinkedIn) -->
   <meta property="og:title" content="{{ if .IsHome }}Silvio Meneguzzo - PhD in Blockchain & DLT{{ else }}{{ .Title }} | Silvio Meneguzzo{{ end }}">
@@ -53,9 +55,11 @@
     ],
     "knowsAbout": ["Blockchain", "Distributed Ledger Technology", "DAO Governance", "Zero-Knowledge Proofs", "Smart Contracts", "Data Marketplaces", "Cryptography"],
     "sameAs": [
+      "https://orcid.org/0009-0002-7471-8755",
       "https://github.com/smeneguz",
       "https://scholar.google.com/citations?user=cFT2URcAAAAJ",
       "https://www.linkedin.com/in/silvio-arras-meneguzzo",
+      "https://dblp.org/pid/353/5214",
       "https://meneguzzo.eth.limo/"
     ]
   }

@@ -2,6 +2,7 @@ baseURL = "https://smeneguz.github.io/"
 languageCode = "en"
 title = "Silvio Meneguzzo"
 copyright = "Silvio Meneguzzo"
+disableKinds = ["taxonomy", "term"]
 
 [params]
   description = "PhD in Blockchain & DLT | Researcher at Links Foundation & University of Turin"
@@ -11,8 +12,11 @@ copyright = "Silvio Meneguzzo"
   googleScholar = "https://scholar.google.com/citations?user=cFT2URcAAAAJ"
   github = "https://github.com/smeneguz"
   linkedin = "https://www.linkedin.com/in/silvio-arras-meneguzzo"
-  orcid = ""
+  orcid = "https://orcid.org/0009-0002-7471-8755"
   twitter = ""
+  # Paste verification codes from Google Search Console / Bing Webmaster Tools here:
+  googleSiteVerification = ""
+  bingSiteVerification = ""
 
 [menu]
   [[menu.main]]
