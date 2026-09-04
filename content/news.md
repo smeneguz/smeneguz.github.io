@@ -6,6 +6,21 @@ subtitle: "Recent activities, workshop leadership, conference announcements, and
 ## 2026
 
 <div class="news-item">
+  <div class="news-date">Sep 2026</div>
+  <div class="news-content">
+    <h3>zkintro Italian Edition Complete: Third and Final Volume Published</h3>
+    <div class="news-summary">
+      <a href="https://zkintro.com/it/articles/understanding-math-behind-zkps/" target="_blank"><em>Capire la matematica alla base delle ZKP</em></a> is out &mdash; my Italian translation and adaptation of <em>Understanding the Math Behind ZKPs</em>, the third and final volume of <a href="https://zkintro.com/" target="_blank">zkintro</a>, Oskar Thor&eacute;n's open-access book series on zero-knowledge proofs. The volume walks through the mathematics of ZKPs via the ZKBoo protocol &mdash; from circuits and secret sharing to sigma protocols and the Fiat-Shamir transformation &mdash; with a toy implementation in under 100 lines of code. With this release the Italian edition of the series is complete, available in the <a href="https://github.com/zkintro/zkintro" target="_blank">official repository</a> and on zkintro.com alongside the English, Spanish, Portuguese, and Chinese editions. <a href="/publications/#books">All volumes &rarr;</a>
+    </div>
+    <div class="news-tags">
+      <span class="tag">Books</span>
+      <span class="tag">Zero Knowledge</span>
+      <span class="tag">Open Access</span>
+    </div>
+  </div>
+</div>
+
+<div class="news-item">
   <div class="news-date">Aug 2026</div>
   <div class="news-content">
     <h3>Second zkintro Volume Published in Italian</h3>

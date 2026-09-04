@@ -5,7 +5,7 @@ subtitle: "Books, peer-reviewed papers, book chapters, and preprints."
 
 ## Books
 
-[zkintro](https://zkintro.com/) is an open-access book series introducing zero-knowledge proofs, written by [Oskar Thor&eacute;n](https://github.com/oskarth). I curate the **Italian edition**: I translate and adapt each volume, and the result is published in the [official zkintro repository](https://github.com/zkintro/zkintro) and on zkintro.com alongside the English, Spanish, Portuguese, and Chinese editions. Two of the three volumes are out; the third is in translation.
+[zkintro](https://zkintro.com/) is an open-access book series introducing zero-knowledge proofs, written by [Oskar Thor&eacute;n](https://github.com/oskarth). I curate the **Italian edition**: I translate and adapt each volume, and the result is published in the [official zkintro repository](https://github.com/zkintro/zkintro) and on zkintro.com alongside the English, Spanish, Portuguese, and Chinese editions. All three volumes are now available in Italian.
 
 <div class="pub-item">
   <div class="pub-title"><a href="https://zkintro.com/it/articles/friendly-introduction-to-zero-knowledge/" target="_blank">Introduzione semplificata alla Zero Knowledge</a></div>
@@ -30,12 +30,13 @@ subtitle: "Books, peer-reviewed papers, book chapters, and preprints."
 </div>
 
 <div class="pub-item">
-  <div class="pub-title">Understanding the Math Behind ZKPs &mdash; Italian edition</div>
-  <div class="pub-authors">Oskar Thor&eacute;n &mdash; Italian edition in preparation by <strong>S. Meneguzzo</strong></div>
-  <div class="pub-venue">Volume 3 of 3. Translation in progress; the English original is available (2025).</div>
+  <div class="pub-title"><a href="https://zkintro.com/it/articles/understanding-math-behind-zkps/" target="_blank">Capire la matematica alla base delle ZKP</a></div>
+  <div class="pub-authors">Oskar Thor&eacute;n &mdash; Italian edition translated and adapted by <strong>S. Meneguzzo</strong></div>
+  <div class="pub-venue">Volume 3 of 3. Italian edition published September 2026 (original: <em>Understanding the Math Behind ZKPs</em>, 2025).</div>
   <div class="pub-links">
+    <a class="pub-link" href="https://zkintro.com/it/articles/understanding-math-behind-zkps/" target="_blank">Read in Italian</a>
+    <a class="pub-link" href="https://github.com/zkintro/zkintro/blob/main/content/it/03_understanding-math-behind-zkps.md" target="_blank">Source</a>
     <a class="pub-link" href="https://zkintro.com/articles/understanding-math-behind-zkps/" target="_blank">English original</a>
-    <a class="pub-link" href="https://github.com/zkintro/zkintro" target="_blank">Repository</a>
   </div>
 </div>
 
