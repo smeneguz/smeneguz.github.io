@@ -29,7 +29,7 @@ subtitle: "Conference presentations, invited talks, academic service, and commun
   <div class="talk-date">Jul 2026</div>
   <div class="talk-content">
     <div class="talk-type">Paper Presentation</div>
-    <h3>Portus: A Resource-Safe Electronic Bill of Lading Protocol on IOTA Move with Cross-Platform Interoperability</h3>
+    <h3>Knaut: Resource-Oriented Control of Electronic Bills of Lading on IOTA Move</h3>
     <div class="talk-venue">SAPSE 2026 workshop, IEEE COMPSAC 2026</div>
     <div class="talk-location">Madrid, Spain</div>
   </div>

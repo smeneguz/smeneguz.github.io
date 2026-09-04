@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-subtitle: "Books, peer-reviewed papers, book chapters, and preprints."
+subtitle: "Books, peer-reviewed papers, book chapters, preprints, and theses."
 ---
 
 ## Books
@@ -45,29 +45,29 @@ subtitle: "Books, peer-reviewed papers, book chapters, and preprints."
 <h2 class="pub-year">2026</h2>
 
 <div class="pub-item">
-  <div class="pub-title">From Factory Floor to Digital Product Passport: A Dual-Chain NFT Architecture for Automotive Traceability</div>
-  <div class="pub-authors"><strong>S. Meneguzzo</strong>, A. Favenza, A. Mozzato</div>
-  <div class="pub-venue">SESS workshop, IEEE COMPSAC 2026, Madrid, Spain (to appear in the proceedings)</div>
+  <div class="pub-title"><a href="https://doi.org/10.1109/COMPSAC69091.2026.00308" target="_blank">From Factory Floor to Digital Product Passport: A Dual-Chain NFT Architecture for Automotive Traceability</a></div>
+  <div class="pub-authors"><strong>S. Meneguzzo</strong>, A. Mozzato, A. Favenza</div>
+  <div class="pub-venue">SESS workshop, IEEE COMPSAC 2026, Madrid, Spain, pp. 2094-2099</div>
   <div class="pub-links">
-    <a class="pub-link" href="https://ieeecompsac.computer.org/2026/final-program/" target="_blank">Program</a>
+    <a class="pub-link" href="https://doi.org/10.1109/COMPSAC69091.2026.00308" target="_blank">DOI</a>
   </div>
 </div>
 
 <div class="pub-item">
-  <div class="pub-title">Measuring the Cost of Trust: Blockchain Integrity Verification Overhead in Energy Digital Twin Pipelines</div>
+  <div class="pub-title"><a href="https://doi.org/10.1109/COMPSAC69091.2026.00394" target="_blank">Measuring the Cost of Trust: Blockchain Integrity Verification Overhead in Energy Digital Twin Pipelines</a></div>
   <div class="pub-authors"><strong>S. Meneguzzo</strong>, N. Bertozzi, M. Sacchet, A. Mozzato, A. Favenza</div>
-  <div class="pub-venue">ICT4SMARTGRID workshop, IEEE COMPSAC 2026, Madrid, Spain (to appear in the proceedings)</div>
+  <div class="pub-venue">ICT4SMARTGRID workshop, IEEE COMPSAC 2026, Madrid, Spain, pp. 2628-2634</div>
   <div class="pub-links">
-    <a class="pub-link" href="https://ieeecompsac.computer.org/2026/final-program/" target="_blank">Program</a>
+    <a class="pub-link" href="https://doi.org/10.1109/COMPSAC69091.2026.00394" target="_blank">DOI</a>
   </div>
 </div>
 
 <div class="pub-item">
-  <div class="pub-title">Portus: A Resource-Safe Electronic Bill of Lading Protocol on IOTA Move with Cross-Platform Interoperability</div>
-  <div class="pub-authors"><strong>S. Meneguzzo</strong>, S. Leto</div>
-  <div class="pub-venue">SAPSE workshop, IEEE COMPSAC 2026, Madrid, Spain (to appear in the proceedings)</div>
+  <div class="pub-title"><a href="https://doi.org/10.1109/COMPSAC69091.2026.00411" target="_blank">Knaut: Resource-Oriented Control of Electronic Bills of Lading on IOTA Move</a></div>
+  <div class="pub-authors"><strong>S. Meneguzzo</strong>, S. Leto, L. R. Inglese, A. Mozzato</div>
+  <div class="pub-venue">SAPSE workshop, IEEE COMPSAC 2026, Madrid, Spain, pp. 2735-2740</div>
   <div class="pub-links">
-    <a class="pub-link" href="https://ieeecompsac.computer.org/2026/final-program/" target="_blank">Program</a>
+    <a class="pub-link" href="https://doi.org/10.1109/COMPSAC69091.2026.00411" target="_blank">DOI</a>
   </div>
 </div>
 
@@ -83,8 +83,9 @@ subtitle: "Books, peer-reviewed papers, book chapters, and preprints."
 <div class="pub-item">
   <div class="pub-title"><a href="https://arxiv.org/abs/2601.14927" target="_blank">Operationalising DAO Sustainability KPIs: A Multi-Chain Dashboard for Governance Analytics</a></div>
   <div class="pub-authors"><strong>S. Meneguzzo</strong>, C. Schifanella, V. Gatteschi, G. Destefanis</div>
-  <div class="pub-venue">FinanSE workshop, ICSE 2026, Rio de Janeiro, Brazil</div>
+  <div class="pub-venue">FinanSE workshop, ICSE 2026, Rio de Janeiro, Brazil, pp. 9-17</div>
   <div class="pub-links">
+    <a class="pub-link" href="https://doi.org/10.1145/3786170.3788388" target="_blank">DOI</a>
     <a class="pub-link" href="https://arxiv.org/abs/2601.14927" target="_blank">arXiv</a>
     <a class="pub-link" href="https://dblp.org/db/conf/finanse/finanse2026.html" target="_blank">DBLP</a>
   </div>
@@ -94,8 +95,8 @@ subtitle: "Books, peer-reviewed papers, book chapters, and preprints."
 
 <div class="pub-item">
   <div class="pub-title"><a href="https://arxiv.org/abs/2504.11341" target="_blank">Evaluating DAO Sustainability and Longevity Through On-Chain Governance Metrics</a></div>
-  <div class="pub-authors"><strong>S. Meneguzzo</strong> et al.</div>
-  <div class="pub-venue">IEEE Open Journal of the Computer Society (Submitted), 2025</div>
+  <div class="pub-authors"><strong>S. Meneguzzo</strong>, C. Schifanella, V. Gatteschi, G. Destefanis</div>
+  <div class="pub-venue">arXiv preprint, 2025 (under journal review)</div>
   <div class="pub-links">
     <a class="pub-link" href="https://arxiv.org/abs/2504.11341" target="_blank">arXiv</a>
   </div>
@@ -103,7 +104,7 @@ subtitle: "Books, peer-reviewed papers, book chapters, and preprints."
 
 <div class="pub-item">
   <div class="pub-title"><a href="https://doi.org/10.1109/COMPSAC65507.2025.00233" target="_blank">Design and Evaluation of a Sub-8 Second Decentralised Marketplace for Energy Data</a></div>
-  <div class="pub-authors"><strong>S. Meneguzzo</strong> et al.</div>
+  <div class="pub-authors"><strong>S. Meneguzzo</strong>, A. Favenza, C. Schifanella, A. Mozzato, S. Leto</div>
   <div class="pub-venue">IEEE COMPSAC 2025, Toronto, Canada</div>
   <div class="pub-links">
     <a class="pub-link" href="https://doi.org/10.1109/COMPSAC65507.2025.00233" target="_blank">DOI</a>
@@ -112,7 +113,7 @@ subtitle: "Books, peer-reviewed papers, book chapters, and preprints."
 
 <div class="pub-item">
   <div class="pub-title"><a href="https://doi.org/10.1109/COMPSAC65507.2025.00234" target="_blank">A Blockchain-Powered Digital Twin Architecture for Consumer-Centric Energy Systems</a></div>
-  <div class="pub-authors"><strong>S. Meneguzzo</strong> et al.</div>
+  <div class="pub-authors"><strong>S. Meneguzzo</strong>, N. Bertozzi, M. Sacchet, L. R. Inglese, A. Favenza</div>
   <div class="pub-venue">IEEE COMPSAC 2025, Toronto, Canada</div>
   <div class="pub-links">
     <a class="pub-link" href="https://doi.org/10.1109/COMPSAC65507.2025.00234" target="_blank">DOI</a>
@@ -121,7 +122,7 @@ subtitle: "Books, peer-reviewed papers, book chapters, and preprints."
 
 <div class="pub-item">
   <div class="pub-title"><a href="https://doi.org/10.1109/COMPSAC65507.2025.00232" target="_blank">A Game-Theoretic Incentive Model for DAO Governance</a></div>
-  <div class="pub-authors"><strong>S. Meneguzzo</strong> et al.</div>
+  <div class="pub-authors"><strong>S. Meneguzzo</strong>, R. Pierri</div>
   <div class="pub-venue">IEEE COMPSAC 2025, Toronto, Canada</div>
   <div class="pub-links">
     <a class="pub-link" href="https://doi.org/10.1109/COMPSAC65507.2025.00232" target="_blank">DOI</a>
@@ -130,10 +131,29 @@ subtitle: "Books, peer-reviewed papers, book chapters, and preprints."
 
 <div class="pub-item">
   <div class="pub-title"><a href="https://doi.org/10.1109/COMPSAC65507.2025.00238" target="_blank">Making Smart Contracts Easier To Understand</a></div>
-  <div class="pub-authors">(Contributing author), <strong>S. Meneguzzo</strong> et al.</div>
+  <div class="pub-authors">E. A. Napoli, L. Gangemi, <strong>S. Meneguzzo</strong>, N. Romani, V. Gatteschi</div>
   <div class="pub-venue">IEEE COMPSAC 2025, Toronto, Canada</div>
   <div class="pub-links">
     <a class="pub-link" href="https://doi.org/10.1109/COMPSAC65507.2025.00238" target="_blank">DOI</a>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div class="pub-title"><a href="https://doi.org/10.1145/3748699.3749769" target="_blank">A Privacy-Preserving Blockchain Framework for Sustainable Supplier Evaluation in the Textile Industry</a></div>
+  <div class="pub-authors">A. Butera, N. Romani, <strong>S. Meneguzzo</strong>, V. Gatteschi</div>
+  <div class="pub-venue">ACM International Conference on Information Technology for Social Good (GoodIT 2025), pp. 24-32</div>
+  <div class="pub-links">
+    <a class="pub-link" href="https://doi.org/10.1145/3748699.3749769" target="_blank">DOI</a>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div class="pub-title"><a href="https://ssrn.com/abstract=5668520" target="_blank">Blockchain or Not? An Auditable Decision Framework for Organisations</a></div>
+  <div class="pub-authors"><strong>S. Meneguzzo</strong>, A. Favenza, S. Leto, V. Gatteschi, C. Schifanella</div>
+  <div class="pub-venue">SSRN preprint, September 2025</div>
+  <div class="pub-links">
+    <a class="pub-link" href="https://doi.org/10.2139/ssrn.5668520" target="_blank">DOI</a>
+    <a class="pub-link" href="https://ssrn.com/abstract=5668520" target="_blank">SSRN</a>
   </div>
 </div>
 
@@ -175,4 +195,18 @@ subtitle: "Books, peer-reviewed papers, book chapters, and preprints."
   <div class="pub-links">
     <a class="pub-link" href="https://doi.org/10.1109/COMPSAC57700.2023.00229" target="_blank">DOI</a>
   </div>
+</div>
+
+## Theses
+
+<div class="pub-item">
+  <div class="pub-title">DAO Sustainability and Citizen Data Ownership: A Token-Driven Framework</div>
+  <div class="pub-authors"><strong>S. Meneguzzo</strong></div>
+  <div class="pub-venue">PhD thesis, Italian National PhD Programme in Blockchain &amp; Distributed Ledger Technology, Universit&agrave; degli Studi di Camerino, 2026</div>
+</div>
+
+<div class="pub-item">
+  <div class="pub-title">Design and Implementation of a Cloud-based Test Executor of Microcontroller Algorithms</div>
+  <div class="pub-authors"><strong>S. Meneguzzo</strong></div>
+  <div class="pub-venue">M.Sc. thesis, Politecnico di Torino, 2022</div>
 </div>
