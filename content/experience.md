@@ -1,6 +1,6 @@
 ---
 title: "Experience"
-subtitle: "Work history across research, software engineering, and project coordination."
+subtitle: "Work history across R&D program management, research, and software engineering."
 ---
 
 ## Work Experience
@@ -8,7 +8,31 @@ subtitle: "Work history across research, software engineering, and project coord
 <div class="timeline">
 
 <div class="timeline-item">
-  <div class="timeline-date">2026 - Present</div>
+  <div class="timeline-date">Sep 2026 - Present</div>
+  <div class="timeline-title">Technology Program Manager - R&D</div>
+  <div class="timeline-org"><a href="https://www.technoprobe.com/" target="_blank">Technoprobe</a>, Lombardy, Italy (hybrid)</div>
+  <div class="timeline-desc">
+    <ul>
+      <li>Technology Program Manager in the R&D organisation of Technoprobe, a global leader in the design and manufacturing of probe cards for wafer-level semiconductor testing.</li>
+      <li>Coordinate R&D technology programs across their full lifecycle, from initiation to closure, keeping technical objectives aligned with the company's business and technology strategy.</li>
+    </ul>
+  </div>
+</div>
+
+<div class="timeline-item">
+  <div class="timeline-date">Sep 2026 - Present</div>
+  <div class="timeline-title">Research Grantee, Ethereum Foundation PhD Fellowship</div>
+  <div class="timeline-org"><a href="https://esp.ethereum.foundation/" target="_blank">Ethereum Foundation</a> Ecosystem Support Program, in collaboration with the <a href="https://www.di.unito.it/do/home.pl" target="_blank">University of Turin</a>, Italy</div>
+  <div class="timeline-desc">
+    <ul>
+      <li>Twelve-month research grant (Grant FY26-2498, ~2% acceptance rate) with mentorship from the Ethereum Foundation.</li>
+      <li>Project: <em>Economic Models for Citizen-Controlled Energy Data Markets on Ethereum</em>, in collaboration with Prof. Claudio Schifanella (University of Turin), with <a href="https://linksfoundation.com/en/" target="_blank">Links Foundation</a> as project advisor.</li>
+    </ul>
+  </div>
+</div>
+
+<div class="timeline-item">
+  <div class="timeline-date">2026</div>
   <div class="timeline-title">Research Fellow (Borsa di Ricerca)</div>
   <div class="timeline-org"><a href="https://www.unito.it/" target="_blank">University of Turin</a>, Italy</div>
   <div class="timeline-desc">
@@ -20,7 +44,7 @@ subtitle: "Work history across research, software engineering, and project coord
 </div>
 
 <div class="timeline-item">
-  <div class="timeline-date">Dec 2022 - Present</div>
+  <div class="timeline-date">Dec 2022 - Sep 2026</div>
   <div class="timeline-title">Blockchain Researcher and Developer</div>
   <div class="timeline-org"><a href="https://linksfoundation.com/en/" target="_blank">Fondazione LINKS</a>, Torino, Italy</div>
   <div class="timeline-desc">
@@ -101,7 +125,7 @@ Selected projects from my [GitHub](https://github.com/smeneguz):
   <a href="https://github.com/zkintro/zkintro" target="_blank" class="card" style="text-decoration: none;">
     <div class="card-label">Zero Knowledge</div>
     <h3>zkintro &mdash; Italian edition</h3>
-    <p>Curator of the Italian edition of the zkintro book series on zero-knowledge proofs. Two volumes translated and published upstream, the third in progress.</p>
+    <p>Curator of the Italian edition of the zkintro book series on zero-knowledge proofs. All three volumes translated and published upstream.</p>
     <div class="tag-list">
       <span class="tag">ZK Proofs</span>
       <span class="tag">Open Access</span>

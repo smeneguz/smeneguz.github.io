@@ -18,7 +18,8 @@ news/
 │                      # IEEE Certificate of Appreciation, COMPSAC 2026 Madrid
 └── events/            # Other professional activities
                        # zkSummit14 Rome, DLT School Cagliari, Brunel London
-                       # visiting period, seminars, PhD programme talks
+                       # visiting period, seminars, PhD programme talks,
+                       # Devcon 8 Mumbai ticket (2026)
 ```
 
 ## Naming Convention

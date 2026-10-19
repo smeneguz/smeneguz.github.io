@@ -3,6 +3,27 @@ title: "Research"
 subtitle: "I work on distributed ledger technologies, from protocol-level design to real-world applications in energy, governance, and privacy."
 ---
 
+## Current Project
+
+<div class="research-area">
+  <h3>Economic Models for Citizen-Controlled Energy Data Markets on Ethereum</h3>
+  <p>
+    <strong>Ethereum Foundation PhD Fellowship 2026</strong> (Ecosystem Support Program, Grant FY26-2498), in collaboration with the University of Turin, with Links Foundation as advisor.
+    Who owns the data a home produces, and who earns from it? This project formalises the economic properties of
+    <strong>token-mediated data markets</strong> and examines how token-based licensing and programmable pricing affect
+    value distribution in citizen-controlled energy data markets, asking when committed rules on Ethereum can give
+    households a better deal than a platform. I will present it at <a href="https://devcon.org/ticket/meneguzzo.eth/mtv8bkag/" target="_blank">Devcon 8</a> in Mumbai on 5 November 2026.
+  </p>
+  <div class="tag-list">
+    <span class="tag">Ethereum</span>
+    <span class="tag">Mechanism Design</span>
+    <span class="tag">Data Markets</span>
+    <span class="tag">Energy Data</span>
+    <span class="tag">Tokenomics</span>
+  </div>
+</div>
+
+
 ## Research Areas
 
 <div class="research-area">
@@ -94,7 +115,7 @@ subtitle: "I work on distributed ledger technologies, from protocol-level design
 
 ## European Projects
 
-At Links Foundation, I contribute to several EU-funded research projects where academic ideas meet industrial deployment.
+At Links Foundation (2022-2026), I contributed to several EU-funded research projects where academic ideas meet industrial deployment.
 
 <div class="project-grid">
   <div class="project-card">
@@ -115,7 +136,7 @@ At Links Foundation, I contribute to several EU-funded research projects where a
   </div>
   <div class="project-card">
     <h4><a href="https://enact-he.eu/" target="_blank">ENACT</a></h4>
-    <p>EU Horizon Europe project on environmental health risk assessment. I lead the design and development of the DLT-based Secure Data Exchange Layer (Task 5.4), ensuring data provenance, integrity, and tamper-proof "Proof-of-Origin" for medical and sensor data.</p>
+    <p>EU Horizon Europe project on environmental health risk assessment. I led the design and development of the DLT-based Secure Data Exchange Layer (Task 5.4), ensuring data provenance, integrity, and tamper-proof "Proof-of-Origin" for medical and sensor data.</p>
   </div>
   <div class="project-card">
     <h4><a href="https://cordis.europa.eu/project/id/101230578" target="_blank">INNO-TREC</a></h4>
@@ -126,11 +147,11 @@ At Links Foundation, I contribute to several EU-funded research projects where a
 
 ## Collaborators and Groups
 
-My research is carried out within two main groups:
+My research has been carried out within two main groups:
 
-- **[Links Foundation](https://linksfoundation.com/en/)** (Torino) -- Applied research centre established by Compagnia di San Paolo and Politecnico di Torino. I work in the blockchain and distributed systems unit.
+- **[Department of Computer Science, University of Turin](https://www.di.unito.it/do/home.pl)** -- My academic home, first within the National PhD Programme ISAS and now as the partner institution of my Ethereum Foundation research grant, where I collaborate with researchers in distributed ledger technologies.
 
-- **[Department of Computer Science, University of Turin](https://www.di.unito.it/do/home.pl)** -- My academic home within the National PhD Programme ISAS, where I collaborate with researchers in distributed ledger technologies.
+- **[Links Foundation](https://linksfoundation.com/en/)** (Torino) -- Applied research centre established by Compagnia di San Paolo and Politecnico di Torino. I worked in the blockchain and distributed systems unit from 2022 to 2026; LINKS now advises my Ethereum Foundation project.
 
 I have also worked with researchers at:
 - [Brunel University London](https://www.brunel.ac.uk/) (visiting researcher, 2024-2025)

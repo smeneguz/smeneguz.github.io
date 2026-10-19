@@ -71,7 +71,7 @@ aliases:
 
 ### Thesis Topics
 
-I regularly co-supervise M.Sc. theses at **Politecnico di Torino**, in collaboration with Links Foundation and the University of Turin ([past and current theses](/teaching/)). Topics I currently propose:
+I co-supervise M.Sc. theses at **Politecnico di Torino** and the University of Turin ([past and current theses](/teaching/)). Topics I currently propose:
 
 - Blockchain protocol design and smart contract development
 - Decentralized data marketplaces and energy applications
@@ -89,7 +89,7 @@ I am always open to working with researchers and engineers on distributed ledger
 
 ### Visiting Researchers
 
-If you are a PhD student or postdoc interested in a short-term research visit at Links Foundation or the University of Turin on DLT-related topics, get in touch. I have experience both hosting and being a visiting researcher (Brunel University London, CITIC Universidade da Coru&ntilde;a).
+If you are a PhD student or postdoc interested in a short-term research visit at the University of Turin on DLT-related topics, get in touch. I have experience both hosting and being a visiting researcher (Brunel University London, CITIC Universidade da Coru&ntilde;a).
 
 ## References
 
@@ -99,7 +99,7 @@ Colleagues who can speak to my research, teaching, and thesis supervision. Conta
   <div class="ref-item">
     <div class="ref-name"><a href="https://informatica.unito.it/persone/claudio.schifanella" target="_blank">Prof. Claudio Schifanella</a></div>
     <div class="ref-role">Associate Professor, Department of Computer Science, University of Turin</div>
-    <div class="ref-context">Supervisor of my research fellowship at the University of Turin and co-author on my work on DAO governance and energy data marketplaces.</div>
+    <div class="ref-context">Supervisor of my research fellowship at the University of Turin, collaborator on my Ethereum Foundation research grant, and co-author on my work on DAO governance and energy data marketplaces.</div>
   </div>
   <div class="ref-item">
     <div class="ref-name"><a href="https://www.polito.it/en/staff?p=valentina.gatteschi" target="_blank">Prof. Valentina Gatteschi</a></div>
@@ -109,14 +109,11 @@ Colleagues who can speak to my research, teaching, and thesis supervision. Conta
   <div class="ref-item">
     <div class="ref-name">Alfredo Favenza</div>
     <div class="ref-role">Program Manager, Blockchain Research Program, <a href="https://linksfoundation.com/en/innovation/technical-scientific-domains/blockchain-and-distributed-ledger-technology-dlt/" target="_blank">Links Foundation</a></div>
-    <div class="ref-context">Leads the blockchain and DLT team in which I have carried out my research since 2022. Co-supervisor of two of my M.Sc. thesis students and co-author on our energy data marketplace publications.</div>
+    <div class="ref-context">Leads the blockchain and DLT team in which I carried out my research from 2022 to 2026, and advises my Ethereum Foundation project. Co-supervisor of two of my M.Sc. thesis students and co-author on our energy data marketplace publications.</div>
   </div>
 </div>
 
 ## Address
-
-**Links Foundation**
-Via Pier Carlo Boggio 61, 10138 Torino, Italy
 
 **Department of Computer Science, University of Turin**
 Corso Svizzera 185, 10149 Torino, Italy

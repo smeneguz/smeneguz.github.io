@@ -202,11 +202,11 @@ subtitle: "Books, peer-reviewed papers, book chapters, preprints, and theses."
 <div class="pub-item">
   <div class="pub-title">DAO Sustainability and Citizen Data Ownership: A Token-Driven Framework</div>
   <div class="pub-authors"><strong>S. Meneguzzo</strong></div>
-  <div class="pub-venue">PhD thesis, Italian National PhD Programme in Blockchain &amp; Distributed Ledger Technology, Universit&agrave; degli Studi di Camerino, 2026</div>
+  <div class="pub-venue">PhD thesis, Italian National PhD Programme in Blockchain &amp; Distributed Ledger Technology, Universit&agrave; degli Studi di Camerino, 2026 (defended 23 June 2026)</div>
 </div>
 
 <div class="pub-item">
   <div class="pub-title">Design and Implementation of a Cloud-based Test Executor of Microcontroller Algorithms</div>
   <div class="pub-authors"><strong>S. Meneguzzo</strong></div>
-  <div class="pub-venue">M.Sc. thesis, Politecnico di Torino, 2022</div>
+  <div class="pub-venue">M.Sc. thesis in Telecommunication Engineering, University of Padova, 2021 (in collaboration with Infineon Technologies)</div>
 </div>

@@ -1,11 +1,13 @@
 ---
 title: "About"
-subtitle: "Researcher, developer, and community organiser working on blockchain and applied cryptography."
+subtitle: "Technology program manager, blockchain researcher, and community organiser."
 ---
 
 ## Bio
 
-I am a PhD in **Blockchain and Distributed Ledger Technologies** within the [National PhD Program ISAS](https://isas.unicam.it/dni/blockchain-and-DLT) (University of Turin / University of Camerino), and currently a **Research Fellow** at the [University of Turin](https://www.unito.it/). My research is carried out jointly at the [Department of Computer Science, University of Turin](https://www.di.unito.it/do/home.pl) and [Links Foundation](https://linksfoundation.com/en/) in Torino.
+I am a **Technology Program Manager** in the R&D organisation of [Technoprobe](https://www.technoprobe.com/), a global leader in probe cards for wafer-level semiconductor testing, where I coordinate R&D technology programs from initiation to closure.
+
+I hold a PhD in **Blockchain and Distributed Ledger Technologies** from the [National PhD Program ISAS](https://isas.unicam.it/dni/blockchain-and-DLT) (University of Camerino / University of Turin), defended in June 2026. I continue my research as the grantee of an **[Ethereum Foundation](https://esp.ethereum.foundation/) PhD Fellowship (2026)**, studying economic models for citizen-controlled energy data markets on Ethereum, in collaboration with the [Department of Computer Science, University of Turin](https://www.di.unito.it/do/home.pl). [Links Foundation](https://linksfoundation.com/en/), where I was a blockchain researcher from 2022 to 2026, stays involved as an advisor to the project.
 
 I work on **distributed systems**, **applied cryptography**, and **software engineering**. Concretely, I design blockchain-based data marketplaces for the energy domain, study DAO governance sustainability through on-chain metrics, and experiment with privacy-preserving techniques like Zero-Knowledge proofs, MPC, and FHE. I also have a growing interest in Layer 2 scaling solutions and the foundational protocol layer of blockchain systems.
 
@@ -15,7 +17,7 @@ On the teaching side, I lecture in the *Blockchain and Payments* module of the [
 
 I also curate the **Italian edition of [zkintro](https://zkintro.com/it/articles/)**, an open-access book series introducing zero-knowledge proofs: all three volumes are translated and published ([books](/publications/#books)).
 
-Outside of research, I organise [TEDxSchio](https://www.ted.com/profiles/10204915/about), have directed the [Startup Grind Padova](https://www.startupgrind.com/) chapter, and serve as an [Ocean Protocol Ambassador](https://oceanprotocol.com/).
+Outside of work, I organise and curate [TEDxSchio](https://www.ted.com/profiles/10204915/about). I previously directed the [Startup Grind Padova](https://www.startupgrind.com/) chapter and served as an [Ocean Protocol Ambassador](https://oceanprotocol.com/).
 
 
 ## Education
@@ -23,9 +25,10 @@ Outside of research, I organise [TEDxSchio](https://www.ted.com/profiles/1020491
 <div class="edu-item">
   <div class="edu-degree">PhD in Blockchain and Distributed Ledger Technology</div>
   <div class="edu-school">National PhD Program ISAS, University of Turin / University of Camerino</div>
-  <div class="edu-date">Dec 2022 - Present</div>
+  <div class="edu-date">Dec 2022 - Jun 2026</div>
   <div class="edu-details">
-    Joint programme with Links Foundation. Visiting researcher at Brunel University London (2024-2025).<br>
+    <strong>Thesis:</strong> DAO Sustainability and Citizen Data Ownership: A Token-Driven Framework (defended 23 June 2026).<br>
+    Research carried out jointly with Links Foundation. Visiting researcher at Brunel University London (2024-2025).<br>
     <strong>Research topics:</strong> Energy data marketplaces, DAO governance and sustainability, ZK proofs / MPC / FHE, Layer 2, protocol design.
   </div>
 </div>
@@ -81,6 +84,14 @@ Outside of research, I organise [TEDxSchio](https://www.ted.com/profiles/1020491
   <span class="tag">AWS</span>
   <span class="tag">Docker</span>
   <span class="tag">LaTeX</span>
+</div>
+
+### Program Management
+<div class="tag-list">
+  <span class="tag">Technical Program Management</span>
+  <span class="tag">Stakeholder Management</span>
+  <span class="tag">R&D Project Coordination</span>
+  <span class="tag">EU Project Delivery</span>
 </div>
 
 ### Languages

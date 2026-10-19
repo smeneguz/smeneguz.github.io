@@ -3,6 +3,19 @@ title: "Talks & Activities"
 subtitle: "Conference presentations, invited talks, academic service, and community work."
 ---
 
+## Upcoming
+
+<div class="talk-item">
+  <div class="talk-date">Nov 2026</div>
+  <div class="talk-content">
+    <div class="talk-type">Talk</div>
+    <h3>Economic Models for Citizen-Controlled Energy Data Markets on Ethereum</h3>
+    <div class="talk-venue"><a href="https://devcon.org/ticket/meneguzzo.eth/mtv8bkag/" target="_blank">Devcon 8</a> &middot; Ethereum Foundation PhD Fellowship project &middot; 5 November 2026</div>
+    <div class="talk-location">Mumbai, India</div>
+  </div>
+</div>
+
+
 ## Conference Presentations
 
 <div class="talk-item">
@@ -280,13 +293,15 @@ subtitle: "Conference presentations, invited talks, academic service, and commun
 
 ## Volunteering and Community
 
-- **TEDxSchio** -- Organiser and Licensee (2018 - present) | [TED Profile](https://www.ted.com/profiles/10204915/about)
+- **TEDxSchio** -- Organiser, Curator and Licensee (2018 - present) | [TED Profile](https://www.ted.com/profiles/10204915/about)
 - **Startup Grind Padova** -- Chapter Director (2019 - 2023) | [Startup Grind](https://www.startupgrind.com/)
 - **Ocean Protocol Ambassador** (2023)
 
 
-## Awards
+## Honours and Awards
 
+- **Ethereum Foundation PhD Fellowship 2026** -- Ecosystem Support Program, Grant FY26-2498 (Sep 2026) | ~2% worldwide acceptance rate; project "Economic Models for Citizen-Controlled Energy Data Markets on Ethereum" | [ESP](https://esp.ethereum.foundation/)
+- **IEEE Computer Society Certificate of Appreciation** -- COMPSAC 2026 Student Research Symposium Co-Chair (Jul 2026), Madrid
 - **Blockstream Turin Simplicity Hackathon** -- 1st Prize with PQ Liquid Wallet project (2024) | Quantum-resistant signatures on Liquid Testnet | [Link](https://github.com/smeneguz/PQ-Liquid-Wallet)
 - **IOTA Hackathon** -- 3rd Prize, Cagliari (Sep 2024) | [DLT School](https://dlt-school.github.io/)
 - **IOTAxMasterZ Hackathon** -- Special Project Award (2024) | Innovative approach to IOTA ecosystem integration

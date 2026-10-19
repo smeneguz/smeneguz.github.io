@@ -19,7 +19,7 @@ aliases:
 
 ## Thesis Supervision
 
-I co-supervise M.Sc. theses at **Politecnico di Torino**, in collaboration with Links Foundation and the University of Turin. Topics I currently propose are listed on the [contact page](/contact/).
+I co-supervise M.Sc. theses at **Politecnico di Torino**, in collaboration with the University of Turin (and, until 2026, Links Foundation). Topics I currently propose are listed on the [contact page](/contact/).
 
 ### Completed
 

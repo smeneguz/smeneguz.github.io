@@ -8,6 +8,45 @@ subtitle: "Recent activities, workshop leadership, conference announcements, and
 <div class="news-item">
   <div class="news-date">Sep 2026</div>
   <div class="news-content">
+    <h3>Ethereum Foundation PhD Fellowship 2026, and a Talk at Devcon 8</h3>
+    <div class="news-summary">
+      Who owns the data your home produces, and who earns from it? I have been awarded an <strong>Ethereum Foundation PhD Fellowship 2026</strong> through the <a href="https://esp.ethereum.foundation/" target="_blank">Ecosystem Support Program</a> (Grant FY26-2498, ~2% worldwide acceptance rate) for the project <em>Economic Models for Citizen-Controlled Energy Data Markets on Ethereum</em>. The research formalises the economic properties of token-mediated data markets and examines when committed rules on Ethereum, such as token-based licensing and programmable pricing, can give households a better deal than a platform. It is a twelve-month grant with mentorship from the Ethereum Foundation, carried out in collaboration with the University of Turin, with Links Foundation advising the project.
+    </div>
+    <div class="news-summary" style="margin-top:8px;">
+      Thanks to the EF Ecosystem Support Program, my EF mentors Ori and Zoey, Prof. Claudio Schifanella, the Department of Computer Science at the University of Turin, and <a href="https://linksfoundation.com/en/" target="_blank">Fondazione LINKS</a>, with the support of Alfredo Favenza, Blockchain Programme Manager. I will present the project at <a href="https://devcon.org/ticket/meneguzzo.eth/mtv8bkag/" target="_blank">Devcon 8</a> in Mumbai on 5 November 2026.
+    </div>
+    <div class="photo-grid photo-grid--single">
+      <figure class="photo-card">
+        <a href="https://devcon.org/ticket/meneguzzo.eth/mtv8bkag/" target="_blank"><img src="/images/news/events/2026-11_devcon8-mumbai-ticket.jpg" alt="Devcon 8 India ticket for meneguzzo.eth" loading="lazy" style="height:auto;"></a>
+        <figcaption>My <a href="https://devcon.org/ticket/meneguzzo.eth/mtv8bkag/" target="_blank">Devcon 8 ticket</a>: Mumbai, November 2026.</figcaption>
+      </figure>
+    </div>
+    <div class="news-tags">
+      <span class="tag">Fellowship</span>
+      <span class="tag">Ethereum</span>
+      <span class="tag">Energy Data</span>
+      <span class="tag">Devcon</span>
+    </div>
+  </div>
+</div>
+
+<div class="news-item">
+  <div class="news-date">Sep 2026</div>
+  <div class="news-content">
+    <h3>New Position: Technology Program Manager R&D at Technoprobe</h3>
+    <div class="news-summary">
+      Joined the R&D organisation of <a href="https://www.technoprobe.com/" target="_blank">Technoprobe</a>, a global leader in the design and manufacturing of probe cards for wafer-level semiconductor testing, as Technology Program Manager. I coordinate R&D technology programs across their full lifecycle, from initiation to closure, keeping technical objectives aligned with the company's business and technology strategy. My research continues through the Ethereum Foundation research grant, in collaboration with the University of Turin; my position at Links Foundation (2022-2026) ended in September, and LINKS stays involved as an advisor to the project.
+    </div>
+    <div class="news-tags">
+      <span class="tag">Career</span>
+      <span class="tag">Program Management</span>
+    </div>
+  </div>
+</div>
+
+<div class="news-item">
+  <div class="news-date">Sep 2026</div>
+  <div class="news-content">
     <h3>zkintro Italian Edition Complete: Third and Final Volume Published</h3>
     <div class="news-summary">
       <a href="https://zkintro.com/it/articles/understanding-math-behind-zkps/" target="_blank"><em>Capire la matematica alla base delle ZKP</em></a> is out &mdash; my Italian translation and adaptation of <em>Understanding the Math Behind ZKPs</em>, the third and final volume of <a href="https://zkintro.com/" target="_blank">zkintro</a>, Oskar Thor&eacute;n's open-access book series on zero-knowledge proofs. The volume walks through the mathematics of ZKPs via the ZKBoo protocol &mdash; from circuits and secret sharing to sigma protocols and the Fiat-Shamir transformation &mdash; with a toy implementation in under 100 lines of code. With this release the Italian edition of the series is complete, available in the <a href="https://github.com/zkintro/zkintro" target="_blank">official repository</a> and on zkintro.com alongside the English, Spanish, Portuguese, and Chinese editions. <a href="/publications/#books">All volumes &rarr;</a>
@@ -79,6 +118,20 @@ subtitle: "Recent activities, workshop leadership, conference announcements, and
       <span class="tag">IEEE Recognition</span>
       <span class="tag">Publications</span>
       <span class="tag">Madrid</span>
+    </div>
+  </div>
+</div>
+
+<div class="news-item">
+  <div class="news-date">Jun 2026</div>
+  <div class="news-content">
+    <h3>PhD Defended</h3>
+    <div class="news-summary">
+      On 23 June 2026 I defended my PhD thesis, <em>"DAO Sustainability and Citizen Data Ownership: A Token-Driven Framework"</em>, completing the <a href="https://isas.unicam.it/dni/blockchain-and-DLT" target="_blank">Italian National PhD Programme in Blockchain and Distributed Ledger Technology</a> (University of Camerino / University of Turin), with research carried out at the University of Turin and Links Foundation. <a href="/publications/#theses">Theses &rarr;</a>
+    </div>
+    <div class="news-tags">
+      <span class="tag">PhD</span>
+      <span class="tag">Career</span>
     </div>
   </div>
 </div>

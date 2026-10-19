@@ -5,7 +5,7 @@ copyright = "Silvio Meneguzzo"
 disableKinds = ["taxonomy", "term"]
 
 [params]
-  description = "PhD in Blockchain & DLT | Researcher at Links Foundation & University of Turin"
+  description = "Technology Program Manager R&D at Technoprobe | PhD in Blockchain & DLT | Ethereum Foundation PhD Fellow, University of Turin"
   author = "Silvio Meneguzzo"
   profileImage = "/images/silvio.jpeg"
   email = "meneguzzosilvio@gmail.com"
