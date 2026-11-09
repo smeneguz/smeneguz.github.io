@@ -12,7 +12,7 @@ subtitle: "I work on distributed ledger technologies, from protocol-level design
     Who owns the data a home produces, and who earns from it? This project formalises the economic properties of
     <strong>token-mediated data markets</strong> and examines how token-based licensing and programmable pricing affect
     value distribution in citizen-controlled energy data markets, asking when committed rules on Ethereum can give
-    households a better deal than a platform. I will present it at <a href="https://devcon.org/ticket/meneguzzo.eth/mtv8bkag/" target="_blank">Devcon 8</a> in Mumbai on 5 November 2026.
+    households a better deal than a platform. I presented first results at <a href="https://cfp.devcon.org/devcon8/talk/XQXYLL/" target="_blank">Devcon 8</a> in Mumbai on 5 November 2026 (<a href="https://www.youtube.com/watch?v=H8xwX_0pmDY" target="_blank">watch the talk</a>).
   </p>
   <div class="tag-list">
     <span class="tag">Ethereum</span>

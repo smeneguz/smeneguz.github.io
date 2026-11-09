@@ -3,19 +3,6 @@ title: "Talks & Activities"
 subtitle: "Conference presentations, invited talks, academic service, and community work."
 ---
 
-## Upcoming
-
-<div class="talk-item">
-  <div class="talk-date">Nov 2026</div>
-  <div class="talk-content">
-    <div class="talk-type">Talk</div>
-    <h3>Economic Models for Citizen-Controlled Energy Data Markets on Ethereum</h3>
-    <div class="talk-venue"><a href="https://devcon.org/ticket/meneguzzo.eth/mtv8bkag/" target="_blank">Devcon 8</a> &middot; Ethereum Foundation PhD Fellowship project &middot; 5 November 2026</div>
-    <div class="talk-location">Mumbai, India</div>
-  </div>
-</div>
-
-
 ## Conference Presentations
 
 <div class="talk-item">
@@ -130,6 +117,16 @@ subtitle: "Conference presentations, invited talks, academic service, and commun
 
 
 ## Invited Talks and Seminars
+
+<div class="talk-item">
+  <div class="talk-date">Nov 2026</div>
+  <div class="talk-content">
+    <div class="talk-type">Invited Speaker</div>
+    <h3>"Can Ethereum Give Citizens a Better Deal on Their Energy Data?" -- Devcon 8</h3>
+    <div class="talk-venue"><a href="https://cfp.devcon.org/devcon8/talk/XQXYLL/" target="_blank">Devcon 8</a>, Lightning Stage &middot; Ethereum Foundation PhD Fellowship 2026 &middot; <a href="https://www.youtube.com/watch?v=H8xwX_0pmDY" target="_blank">Watch on YouTube</a></div>
+    <div class="talk-location">Mumbai, India</div>
+  </div>
+</div>
 
 <div class="talk-item">
   <div class="talk-date">May 2025</div>

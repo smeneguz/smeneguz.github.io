@@ -6,6 +6,31 @@ subtitle: "Recent activities, workshop leadership, conference announcements, and
 ## 2026
 
 <div class="news-item">
+  <div class="news-date">Nov 2026</div>
+  <div class="news-content">
+    <h3>Speaking at Devcon 8 in Mumbai as an Ethereum Foundation PhD Fellow</h3>
+    <div class="news-summary">
+      On 5 November I spoke at <strong>Devcon 8</strong> in Mumbai, invited by the Ethereum Foundation as one of the 2026 PhD Fellows. My talk, <a href="https://cfp.devcon.org/devcon8/talk/XQXYLL/" target="_blank"><em>Can Ethereum Give Citizens a Better Deal on Their Energy Data?</em></a>, was a ten-minute lightning talk in the academic sessions on the Lightning Stage, and the first public presentation of my fellowship research. Smart meters, solar panels and home appliances produce data that utilities and platforms control and monetise today. The talk asks when Ethereum can let households keep ownership of that data and earn from it directly, by taking pricing, access and governance decisions out of an operator's hands, and when a centralised platform is still the better option.
+    </div>
+    <div class="news-summary" style="margin-top:8px;">
+      It was a privilege to bring this work to Devcon only a few weeks into the fellowship. Thanks to the Ethereum Foundation and the Devcon team for the invitation, and to everyone who came by the Lightning Stage. The recording is on the Ethereum Foundation YouTube channel. <a href="https://cfp.devcon.org/devcon8/speaker/8W8WEF/" target="_blank">Speaker profile &rarr;</a>
+    </div>
+    <figure class="video-embed">
+      <div class="video-embed__frame">
+        <iframe src="https://www.youtube-nocookie.com/embed/H8xwX_0pmDY" title="Can Ethereum Give Citizens a Better Deal on Their Energy Data? (Devcon 8, Silvio Meneguzzo)" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      </div>
+      <figcaption>Devcon 8, Lightning Stage, 5 November 2026. <a href="https://www.youtube.com/watch?v=H8xwX_0pmDY" target="_blank">Watch on YouTube</a>.</figcaption>
+    </figure>
+    <div class="news-tags">
+      <span class="tag">Talk</span>
+      <span class="tag">Devcon</span>
+      <span class="tag">Ethereum</span>
+      <span class="tag">Energy Data</span>
+    </div>
+  </div>
+</div>
+
+<div class="news-item">
   <div class="news-date">Sep 2026</div>
   <div class="news-content">
     <h3>Ethereum Foundation PhD Fellowship 2026, and a Talk at Devcon 8</h3>
@@ -13,7 +38,7 @@ subtitle: "Recent activities, workshop leadership, conference announcements, and
       Who owns the data your home produces, and who earns from it? I have been awarded an <strong>Ethereum Foundation PhD Fellowship 2026</strong> through the <a href="https://esp.ethereum.foundation/" target="_blank">Ecosystem Support Program</a> (Grant FY26-2498, ~2% worldwide acceptance rate) for the project <em>Economic Models for Citizen-Controlled Energy Data Markets on Ethereum</em>. The research formalises the economic properties of token-mediated data markets and examines when committed rules on Ethereum, such as token-based licensing and programmable pricing, can give households a better deal than a platform. It is a twelve-month grant with mentorship from the Ethereum Foundation, carried out in collaboration with the University of Turin, with Links Foundation advising the project.
     </div>
     <div class="news-summary" style="margin-top:8px;">
-      Thanks to the EF Ecosystem Support Program, my EF mentors Ori and Zoey, Prof. Claudio Schifanella, the Department of Computer Science at the University of Turin, and <a href="https://linksfoundation.com/en/" target="_blank">Fondazione LINKS</a>, with the support of Alfredo Favenza, Blockchain Programme Manager. I will present the project at <a href="https://devcon.org/ticket/meneguzzo.eth/mtv8bkag/" target="_blank">Devcon 8</a> in Mumbai on 5 November 2026.
+      Thanks to the EF Ecosystem Support Program, my EF mentors Ori and Zoey, Prof. Claudio Schifanella, the Department of Computer Science at the University of Turin, and <a href="https://linksfoundation.com/en/" target="_blank">Fondazione LINKS</a>, with the support of Alfredo Favenza, Blockchain Programme Manager. I presented the project at Devcon 8 in Mumbai on 5 November 2026 (<a href="https://www.youtube.com/watch?v=H8xwX_0pmDY" target="_blank">recording</a>).
     </div>
     <div class="photo-grid photo-grid--single">
       <figure class="photo-card">
