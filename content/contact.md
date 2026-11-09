@@ -71,7 +71,7 @@ aliases:
 
 ### Thesis Topics
 
-I co-supervise M.Sc. theses at **Politecnico di Torino** and the University of Turin ([past and current theses](/teaching/)). Topics I currently propose:
+I co-supervise M.Sc. theses at **Politecnico di Torino** and the University of Turin ([completed theses](/teaching/#completed)). **I am currently looking for new thesis students.** You can propose a topic of your own, or take on a thesis proposal I have ready, aligned with my [Ethereum Foundation research grant](/research/) on citizen-controlled energy data markets. Other topics I propose:
 
 - Blockchain protocol design and smart contract development
 - Decentralized data marketplaces and energy applications
@@ -81,7 +81,7 @@ I co-supervise M.Sc. theses at **Politecnico di Torino** and the University of T
 - Self-Sovereign Identity (SSI) and verifiable credentials
 - DLT-based secure data exchange for health and energy domains
 
-If one of these interests you (or something adjacent), write to me with a short description of your background.
+If one of these interests you, or you have your own idea, write to me with a short proposal and a description of your background.
 
 ### Research Collaborations
 
@@ -109,7 +109,7 @@ Colleagues who can speak to my research, teaching, and thesis supervision. Conta
   <div class="ref-item">
     <div class="ref-name">Alfredo Favenza</div>
     <div class="ref-role">Program Manager, Blockchain Research Program, <a href="https://linksfoundation.com/en/innovation/technical-scientific-domains/blockchain-and-distributed-ledger-technology-dlt/" target="_blank">Links Foundation</a></div>
-    <div class="ref-context">Leads the blockchain and DLT team in which I carried out my research from 2022 to 2026, and advises my Ethereum Foundation project. Co-supervisor of two of my M.Sc. thesis students and co-author on our energy data marketplace publications.</div>
+    <div class="ref-context">Leads the blockchain and DLT team in which I carried out my research from 2022 to 2026, and advises my Ethereum Foundation project. Co-supervisor of four of my M.Sc. thesis students and co-author on our energy data marketplace publications.</div>
   </div>
 </div>
 
