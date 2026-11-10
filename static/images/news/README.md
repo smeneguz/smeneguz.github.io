@@ -50,7 +50,7 @@ for portrait-oriented sets so rows stay compact.
 
 ## Captions: verify before writing
 
-File names are not always reliable — several photos arrived labeled with the
+File names are not always reliable - several photos arrived labeled with the
 wrong conference or year (e.g. a "COMPSAC_2026" file that was actually COMPSAC
 2025 Toronto, a "BRAINS_2024_Paris" file that was a PhD programme talk).
 Check what is visible in the photo (banners, slides, badges) before captioning.

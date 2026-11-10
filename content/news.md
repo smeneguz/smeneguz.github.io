@@ -104,7 +104,7 @@ subtitle: "Recent activities, workshop leadership, conference announcements, and
   <div class="news-content">
     <h3>IEEE COMPSAC 2026, Madrid: BlockDLT 2nd Edition, Three Papers, and an IEEE Recognition</h3>
     <div class="news-summary">
-      A packed edition of <a href="https://ieeecompsac.computer.org/2026/" target="_blank">IEEE COMPSAC 2026</a> (July 7-10, Universidad Politécnica de Madrid — the conference's 50th anniversary). I chaired the <a href="https://ieeecompsac.computer.org/2026/2nd-ieee-international-workshop-on-blockchain-and-distributed-ledger-technologies-blockdlt-2026/" target="_blank">2nd IEEE International Workshop on Blockchain and Distributed Ledger Technologies (BlockDLT 2026)</a>, co-organised the <a href="https://ieeecompsac.computer.org/2026/2nd-ieee-mentorium-workshop-building-blocks-for-early-career-researchers-mentorium-2026/" target="_blank">2nd IEEE Mentorium Workshop</a> and the <a href="https://ieeecompsac.computer.org/2026/srs-2026/" target="_blank">Student Research Symposium (SRS 2026)</a>, and presented three workshop papers: a dual-chain NFT architecture for automotive digital product passports (SESS), blockchain integrity verification overhead in energy digital twin pipelines (ICT4SMARTGRID), and <em>Knaut</em>, an electronic bill of lading protocol on IOTA Move (SAPSE).
+      A packed edition of <a href="https://ieeecompsac.computer.org/2026/" target="_blank">IEEE COMPSAC 2026</a> (July 7-10, Universidad Politécnica de Madrid - the conference's 50th anniversary). I chaired the <a href="https://ieeecompsac.computer.org/2026/2nd-ieee-international-workshop-on-blockchain-and-distributed-ledger-technologies-blockdlt-2026/" target="_blank">2nd IEEE International Workshop on Blockchain and Distributed Ledger Technologies (BlockDLT 2026)</a>, co-organised the <a href="https://ieeecompsac.computer.org/2026/2nd-ieee-mentorium-workshop-building-blocks-for-early-career-researchers-mentorium-2026/" target="_blank">2nd IEEE Mentorium Workshop</a> and the <a href="https://ieeecompsac.computer.org/2026/srs-2026/" target="_blank">Student Research Symposium (SRS 2026)</a>, and presented three workshop papers: a dual-chain NFT architecture for automotive digital product passports (SESS), blockchain integrity verification overhead in energy digital twin pipelines (ICT4SMARTGRID), and <em>Knaut</em>, an electronic bill of lading protocol on IOTA Move (SAPSE).
     </div>
     <div class="news-summary" style="margin-top:8px;">
       At the conference banquet I received an <strong>IEEE Computer Society Certificate of Appreciation</strong> for serving as COMPSAC 2026 Co-Chair of the Student Research Symposium.
@@ -120,7 +120,7 @@ subtitle: "Recent activities, workshop leadership, conference announcements, and
       </figure>
       <figure class="photo-card">
         <img src="/images/news/workshops/2026-07_compsac-madrid-blockdlt-program.jpg" alt="Printed program of the BlockDLT 2026 workshop session chaired by Silvio Meneguzzo" loading="lazy">
-        <figcaption>BlockDLT 2026 (2nd edition) session program — Session Chair: Silvio Meneguzzo, University of Turin.</figcaption>
+        <figcaption>BlockDLT 2026 (2nd edition) session program - Session Chair: Silvio Meneguzzo, University of Turin.</figcaption>
       </figure>
     </div>
     <div class="photo-grid photo-grid--tall">
@@ -187,7 +187,7 @@ subtitle: "Recent activities, workshop leadership, conference announcements, and
   <div class="news-content">
     <h3>zkSummit14, Rome</h3>
     <div class="news-summary">
-      Attended <a href="https://www.zksummit.com/" target="_blank">zkSummit14</a>, the 14th edition of the Zero Knowledge Summit (May 7, 2026), held in Rome alongside Eurocrypt 2026 — keeping up with the state of the art in ZK proofs, one of my core research interests.
+      Attended <a href="https://www.zksummit.com/" target="_blank">zkSummit14</a>, the 14th edition of the Zero Knowledge Summit (May 7, 2026), held in Rome alongside Eurocrypt 2026 - keeping up with the state of the art in ZK proofs, one of my core research interests.
     </div>
     <div class="photo-grid photo-grid--single">
       <figure class="photo-card">
@@ -217,7 +217,7 @@ subtitle: "Recent activities, workshop leadership, conference announcements, and
       </figure>
       <figure class="photo-card">
         <img src="/images/news/conferences/2026-04_icse-rio-entrance.jpg" alt="Silvio Meneguzzo at the ICSE 2026 conference backdrop in Rio de Janeiro" loading="lazy">
-        <figcaption>At ICSE 2026 — 48th International Conference on Software Engineering, Rio de Janeiro.</figcaption>
+        <figcaption>At ICSE 2026 - 48th International Conference on Software Engineering, Rio de Janeiro.</figcaption>
       </figure>
       <figure class="photo-card">
         <img src="/images/news/conferences/2026-04_icse-rio-banner.jpg" alt="ICSE 2026 Rio entrance signage" loading="lazy">
@@ -297,7 +297,7 @@ subtitle: "Recent activities, workshop leadership, conference announcements, and
   <div class="news-content">
     <h3>COMPSAC 2025, Toronto: Four Papers and the Launch of BlockDLT</h3>
     <div class="news-summary">
-      At <a href="https://ieeecompsac.computer.org/2025/" target="_blank">IEEE COMPSAC 2025</a> (July 8-11, York University, Toronto) I presented three first-author papers — on a sub-8 second decentralised energy data marketplace, a blockchain-powered digital twin architecture, and a game-theoretic incentive model for DAO governance — and co-authored a fourth on smart contract understandability. I also founded and chaired the <a href="https://ieeecompsac.computer.org/2025/blockdlt/" target="_blank">1st IEEE International Workshop on Blockchain and Distributed Ledger Technologies (BlockDLT 2025)</a>, chaired <a href="https://ieeecompsac.computer.org/2025/mentorium/" target="_blank">IEEE Mentorium 2025</a>, and served as Symposium Chair of the <a href="https://ieeecompsac.computer.org/2025/srs/" target="_blank">Student Research Symposium</a>.
+      At <a href="https://ieeecompsac.computer.org/2025/" target="_blank">IEEE COMPSAC 2025</a> (July 8-11, York University, Toronto) I presented three first-author papers - on a sub-8 second decentralised energy data marketplace, a blockchain-powered digital twin architecture, and a game-theoretic incentive model for DAO governance - and co-authored a fourth on smart contract understandability. I also founded and chaired the <a href="https://ieeecompsac.computer.org/2025/blockdlt/" target="_blank">1st IEEE International Workshop on Blockchain and Distributed Ledger Technologies (BlockDLT 2025)</a>, chaired <a href="https://ieeecompsac.computer.org/2025/mentorium/" target="_blank">IEEE Mentorium 2025</a>, and served as Symposium Chair of the <a href="https://ieeecompsac.computer.org/2025/srs/" target="_blank">Student Research Symposium</a>.
     </div>
     <div class="photo-grid photo-grid--tall">
       <figure class="photo-card">
@@ -320,7 +320,7 @@ subtitle: "Recent activities, workshop leadership, conference announcements, and
       </figure>
       <figure class="photo-card">
         <img src="/images/news/conferences/2025-07_toronto-city-hall.jpg" alt="Toronto City Hall and the Toronto sign" loading="lazy">
-        <figcaption>Toronto, ON — host city of COMPSAC 2025.</figcaption>
+        <figcaption>Toronto, ON - host city of COMPSAC 2025.</figcaption>
       </figure>
     </div>
     <div class="news-tags">
@@ -337,7 +337,7 @@ subtitle: "Recent activities, workshop leadership, conference announcements, and
   <div class="news-content">
     <h3>Hands-on Ethereum Workshop with Austin Griffith</h3>
     <div class="news-summary">
-      Co-organised a <a href="https://luma.com/jgtzi82w" target="_blank">hands-on technical workshop</a> in partnership with Politecnico di Torino, University of Turin, and Links Foundation, featuring Austin Griffith (BuidlGuidl) — smart contract prototyping and Scaffold-ETH in practice.
+      Co-organised a <a href="https://luma.com/jgtzi82w" target="_blank">hands-on technical workshop</a> in partnership with Politecnico di Torino, University of Turin, and Links Foundation, featuring Austin Griffith (BuidlGuidl) - smart contract prototyping and Scaffold-ETH in practice.
     </div>
     <div class="news-tags">
       <span class="tag">Workshop</span>
@@ -384,7 +384,7 @@ subtitle: "Recent activities, workshop leadership, conference announcements, and
   <div class="news-content">
     <h3>Visiting Researcher at Brunel University London</h3>
     <div class="news-summary">
-      Spent a research period at <a href="https://www.brunel.ac.uk/" target="_blank">Brunel University London</a> working with the software engineering and blockchain group of Prof. Giuseppe Destefanis — a collaboration that led to the DAO sustainability KPIs line of work later presented at ICSE FinanSE 2026.
+      Spent a research period at <a href="https://www.brunel.ac.uk/" target="_blank">Brunel University London</a> working with the software engineering and blockchain group of Prof. Giuseppe Destefanis - a collaboration that led to the DAO sustainability KPIs line of work later presented at ICSE FinanSE 2026.
     </div>
     <div class="photo-grid photo-grid--single">
       <figure class="photo-card">
@@ -456,7 +456,7 @@ subtitle: "Recent activities, workshop leadership, conference announcements, and
   <div class="news-content">
     <h3>COMPSAC 2024, Osaka: Energy Markets Paper</h3>
     <div class="news-summary">
-      Presented <em>"Shaping the Future of Energy Markets: Federated Systems and Blockchain Synergy"</em> in the workshop program of IEEE COMPSAC 2024 in Osaka, Japan — the groundwork that led to founding the BlockDLT workshop at COMPSAC 2025.
+      Presented <em>"Shaping the Future of Energy Markets: Federated Systems and Blockchain Synergy"</em> in the workshop program of IEEE COMPSAC 2024 in Osaka, Japan - the groundwork that led to founding the BlockDLT workshop at COMPSAC 2025.
     </div>
     <div class="news-tags">
       <span class="tag">Publications</span>
@@ -487,7 +487,7 @@ subtitle: "Recent activities, workshop leadership, conference announcements, and
   <div class="news-content">
     <h3>First COMPSAC Paper, at Home: Torino</h3>
     <div class="news-summary">
-      Presented my first IEEE COMPSAC paper, <a href="https://doi.org/10.1109/COMPSAC57700.2023.00229" target="_blank">"Exploring the Potential of Energy Data Marketplaces: an Approach based on the Ocean Protocol"</a>, at COMPSAC 2023, hosted by the University of Turin — the start of the COMPSAC journey that continued in Osaka, Toronto, and Madrid.
+      Presented my first IEEE COMPSAC paper, <a href="https://doi.org/10.1109/COMPSAC57700.2023.00229" target="_blank">"Exploring the Potential of Energy Data Marketplaces: an Approach based on the Ocean Protocol"</a>, at COMPSAC 2023, hosted by the University of Turin - the start of the COMPSAC journey that continued in Osaka, Toronto, and Madrid.
     </div>
     <div class="photo-grid photo-grid--single">
       <figure class="photo-card">
@@ -507,7 +507,7 @@ subtitle: "Recent activities, workshop leadership, conference announcements, and
   <div class="news-content">
     <h3>Seminar: Blockchain for Data Marketplaces</h3>
     <div class="news-summary">
-      Gave a seminar on blockchain-based data marketplaces — security, privacy, and trust — for the Italian DLT research community, presenting the DataCellar decentralised marketplace architecture developed at Links Foundation.
+      Gave a seminar on blockchain-based data marketplaces - security, privacy, and trust - for the Italian DLT research community, presenting the DataCellar decentralised marketplace architecture developed at Links Foundation.
     </div>
     <div class="photo-grid">
       <figure class="photo-card">
@@ -516,7 +516,7 @@ subtitle: "Recent activities, workshop leadership, conference announcements, and
       </figure>
       <figure class="photo-card">
         <img src="/images/news/events/phd-isas-research-presentation.jpg" alt="Presenting the PhD research line on blockchain applications for energy, data spaces, and communities" loading="lazy">
-        <figcaption>Presenting my PhD research line — "Blockchain Applications for Energy, Data Spaces, and Communities" — within the National PhD Programme (ISAS).</figcaption>
+        <figcaption>Presenting my PhD research line - "Blockchain Applications for Energy, Data Spaces, and Communities" - within the National PhD Programme (ISAS).</figcaption>
       </figure>
     </div>
     <div class="news-tags">
